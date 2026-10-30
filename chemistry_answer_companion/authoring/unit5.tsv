@@ -1,0 +1,70 @@
+289|A coordination compound contains a central metal atom/ion bonded to surrounding ligands by coordinate bonds; e.g. [Co(NH₃)₆]Cl₃.
+290|A ligand donates one or more lone pairs to a central metal. By denticity, ligands are monodentate (one donor atom), bidentate (two) or polydentate (several); e.g. NH₃, en and EDTA.
+291|Coordination number is the number of ligand donor atoms directly bonded to the metal. In [Co(NH₃)₆]³⁺ it is 6.
+292|In [Co(NH₃)₅Cl]Cl₂ the complex cation has charge +2. With NH₃ neutral and coordinated Cl⁻ at −1, x−1=+2, so Co is +3.
+293|A double salt dissociates in water into all constituent simple ions and loses its identity. A coordination compound retains complex ions in solution, e.g. [Fe(CN)₆]⁴⁻.
+294|Werner’s primary valency is ionisable and corresponds mainly to oxidation state; secondary valency is coordination number, satisfied by ligands and directional in space.
+295|CoCl₃·6NH₃ is [Co(NH₃)₆]Cl₃: six secondary valencies and three ionisable Cl⁻. CoCl₃·5NH₃ is [Co(NH₃)₅Cl]Cl₂: five NH₃ plus one coordinated Cl⁻ give coordination number 6, with two ionisable Cl⁻.
+296|Hexaamminecobalt(III) chloride.
+297|Potassium hexacyanidoferrate(II).
+298|[Co(NH₃)₅Cl]Cl₂.
+299|A chelating ligand binds a metal through two or more donor atoms, forming one or more rings; ethane-1,2-diamine (en) or oxalate is an example.
+300|Multidentate ligands form several metal–donor bonds at once, and chelation often has a favourable entropy because several coordinated monodentate molecules are released as one multidentate ligand binds. Ring formation and rebinding make dissociation less favourable than for analogous monodentate ligands.
+301|Homoleptic complexes contain only one kind of ligand; heteroleptic complexes contain two or more different ligand types.
+302|In VBT, ligands donate lone pairs into vacant hybrid orbitals on the metal. Hybrid-orbital arrangement predicts geometry; the metal’s unpaired d electrons help predict magnetic behaviour.
+303|In [Ni(CN)₄]²⁻, Ni²⁺ is d⁸ and CN⁻ is strong-field; d electrons pair, giving dsp² hybridisation, square-planar geometry and diamagnetism.
+304|In [NiCl₄]²⁻, Ni²⁺ is d⁸ and Cl⁻ weak-field; the complex is sp³ tetrahedral with two unpaired electrons and is paramagnetic.
+305|Crystal-field splitting is removal of degeneracy of metal d orbitals by the electrostatic field of surrounding ligands; the energy separation depends on geometry and ligand strength.
+306|Strong-field ligands produce a large splitting Δ and may cause electron pairing; weak-field ligands give a smaller Δ, often leaving electrons unpaired in high-spin complexes.
+307|Both contain Fe²⁺ (d⁶). CN⁻ gives Δ_o>P, so [Fe(CN)₆]⁴⁻ is low-spin t₂g⁶; weak-field F⁻ gives Δ_o<P, so [FeF₆]⁴⁻ is high-spin t₂g⁴e_g².
+308|In an octahedral field, the five d orbitals split into lower-energy t₂g (d_xy,d_xz,d_yz) and higher-energy e_g (d_z²,d_x²−y²), separated by Δ_o.
+309|In a tetrahedral field, e (d_z²,d_x²−y²) is lower and t₂ (d_xy,d_xz,d_yz) higher; the order is opposite to octahedral and the gap is Δ_t.
+310|In tetrahedral geometry only four ligands approach and none lies directly on the axes; interaction with d lobes is smaller. Consequently Δ_t≈(4/9)Δ_o for the same metal/ligand (approximately).
+311|Crystal-field stabilisation energy is the net lowering in d-electron energy relative to the unsplit barycentre due to occupation of the lower-energy ligand-field orbitals.
+312|Octahedral d³ is t₂g³e_g⁰. CFSE=3(−0.4Δ_o)=−1.2Δ_o, i.e. stabilisation of 1.2Δ_o; pairing energy is excluded.
+313|Partly filled d orbitals can undergo ligand-field d–d transitions by absorbing visible photons, and charge-transfer transitions may also absorb light; unabsorbed light gives observed colour.
+314|A photon is absorbed when hc/λ matches the ligand-field transition energy (approximately Δ). Thus λ=hc/Δ; larger splitting corresponds to shorter absorbed wavelength.
+315|Magnetic susceptibility/moment estimates unpaired-electron count. High-spin complexes usually have more unpaired electrons and larger paramagnetic moments than their low-spin counterparts; all-paired complexes are diamagnetic.
+316|Spin-only μ=√[n(n+2)] BM=√[4×6]=√24=4.90 BM.
+317|Geometrical isomerism occurs when the same ligands occupy different relative positions around the metal, e.g. cis and trans arrangements, without changing connectivity.
+318|Optical isomers are non-superimposable mirror-image coordination structures (enantiomers) that rotate plane-polarised light in opposite directions.
+319|Square-planar [MA₂B₂] has cis isomer with identical A ligands adjacent and trans isomer with A ligands opposite; these are distinct spatial arrangements.
+320|Two: cis-[MA₄B₂] and trans-[MA₄B₂], according to the relative positions of the two B ligands.
+321|[Co(NH₃)₅(NO₂)]Cl₂ can bind NO₂⁻ through N (nitro) or O (nitrito), giving linkage isomers.
+322|Ionisation isomers exchange a ligand inside the coordination sphere with a counter-ion outside, producing different ions in solution; e.g. [Co(NH₃)₅Br]SO₄ and [Co(NH₃)₅SO₄]Br.
+323|Linkage: [Co(NH₃)₅(NO₂)]Cl₂ (nitro/nitrito donor atom). Ionisation: [Co(NH₃)₅Br]SO₄ vs [Co(NH₃)₅SO₄]Br. Hydrate: [Cr(H₂O)₆]Cl₃ vs [Cr(H₂O)₅Cl]Cl₂·H₂O.
+324|Complex formation gives characteristic colours or selective precipitates and can mask interfering ions, allowing ions to be separated or identified in qualitative analysis.
+325|In cyanide leaching, Au/Ag forms soluble dicyano complexes (e.g. 4Au+8CN⁻+O₂+2H₂O→4[Au(CN)₂]⁻+4OH⁻); metal is then recovered from solution.
+326|Haemoglobin’s Fe-containing heme coordination sites bind O₂ reversibly, enabling oxygen transport in blood; binding must remain reversible and not permanently oxidise the iron.
+327|Chlorophyll has central Mg²⁺ in a porphyrin-like coordination framework for light capture in photosynthesis. Vitamin B₁₂ (cobalamin) contains Co coordinated within a corrin ring and is essential in several enzyme-mediated reactions.
+328|EDTA is hexadentate and can bind through six donor atoms, forming multiple bonds and chelate rings around many metal ions; this yields stable complexes and strong sequestration.
+329|Inner-orbital octahedral complexes use two (n−1)d, one ns and three np orbitals (d²sp³), often low spin. Outer-orbital complexes use ns, np and nd (sp³d²), often high spin; this is VBT’s model.
+330|The spectrochemical series orders ligands by increasing ability to split metal d orbitals, e.g. I⁻<Br⁻<Cl⁻<F⁻<OH⁻<H₂O<NH₃<en<CN⁻<CO.
+331|If Δ>P, placing an electron in a higher orbital costs more than pairing in a lower one, so pairing occurs. If Δ<P, occupation of separate higher orbitals costs less, favouring high spin.
+332|For [Fe(CN)₆]³⁻, x+6(−1)=−3 gives Fe=+3. Six monodentate CN⁻ donor atoms give coordination number 6.
+333|Mn in [Mn(CN)₆]³⁻ is +3, d⁴. Strong-field CN⁻ gives low-spin t₂g⁴e_g⁰, with two unpaired electrons.
+334|EAN=metal atomic number−oxidation state+electrons donated by ligands; stability is sometimes associated with reaching a noble-gas electron count, but it is only an empirical guideline.
+335|Many stable complexes do not attain noble-gas EAN; ligand field, covalency, steric effects, charge, kinetics and thermodynamics can dominate. The rule is not a universal stability criterion.
+336|A monodentate ligand binds through one donor atom; a bidentate ligand binds through two donor atoms to the same metal, often forming a chelate ring.
+337|Square-planar Pt(II) complexes of formula [Pt(NH₃)₂Cl₂] have cis (like ligands adjacent) and trans (opposite) arrangements. Cisplatin is the cis form and is an important anticancer drug; the trans form is not equivalently effective.
+338|en is neutral and two Cl⁻ contribute −2. For complex charge +1, x−2=+1, so Co=+3. Two en ligands donate four atoms and two Cl⁻ donate two: coordination number 6.
+339|Tetraaquadichloridochromium(III) chloride.
+340|Ethane-1,2-diamine (en) is bidentate, denticity 2, donating through its two nitrogen atoms.
+341|Fe in [Fe(CN)₆]³⁻ is Fe³⁺, d⁵. Under strong-field conditions it is low-spin t₂g⁵ with one unpaired electron; VBT predicts inner-orbital d²sp³ octahedral geometry.
+342|Zn²⁺ is d¹⁰, so all metal d electrons are paired; [Zn(NH₃)₄]²⁺ is therefore diamagnetic in the usual description.
+343|Octahedral d⁶ high spin t₂g⁴e_g² has four unpaired electrons, μ≈4.90 BM; low spin t₂g⁶ has none and is diamagnetic (spin-only values).
+344|Δ is the energy gap between ligand-field orbital sets. Pairing energy P is the energetic cost of placing two electrons in one orbital; comparing Δ and P determines spin state.
+345|Octahedral d⁴ high spin: t₂g³e_g¹, four unpaired. Low spin: t₂g⁴e_g⁰, two unpaired; low spin is favoured when Δ_o>P.
+346|[Co(en)₃]³⁺ is an example; its Δ and Λ forms are non-superimposable mirror images.
+347|In cis-[M(en)₂Cl₂]⁺, the two chelate rings can form a chiral arrangement with Δ/Λ mirror-image forms and no improper symmetry element. The trans arrangement has symmetry that makes it achiral in the usual octahedral case.
+348|The coordination sphere is the central metal together with directly attached ligands, conventionally written inside square brackets.
+349|[Co(NH₃)₅Cl]Cl₂→[Co(NH₃)₅Cl]²⁺+2Cl⁻, giving three ions per formula unit if the complex ion remains intact.
+350|Geometry reflects coordination number, ligand size/repulsion, metal electronic structure and ligand-field stabilisation; these favour characteristic arrangements such as tetrahedral, square planar or octahedral.
+351|VBT gives qualitative hybridisation/geometry and pairing but does not quantitatively explain d-orbital splitting, colours, absorption spectra, spectrochemical ordering or many magnetic trends.
+352|The chelate effect is the enhanced thermodynamic stability often observed when a multidentate ligand replaces comparable monodentate ligands, commonly due to favourable entropy and multiple simultaneous bonds.
+353|A masking ligand binds an interfering metal ion strongly, lowering its free-ion concentration and preventing its usual precipitation or colour reaction while other ions are tested.
+354|[Ag(NH₃)₂]⁺ is the soluble diamminesilver(I) complex in Tollens’ reagent, used to identify aldehydes by their reduction of Ag(I) to metallic silver.
+355|A complexing ligand removes free metal ions from solution. This shifts the dissolution equilibrium of a sparingly soluble salt toward more dissolved ions, increasing apparent solubility.
+356|[Cu(NH₃)₄]SO₄.
+357|In octahedral [MA₃B₃], fac has the three A ligands on one face, all mutually cis. Mer has the three A ligands along a meridian, with one A–A pair trans.
+358|Octahedral d⁵ high-spin t₂g³e_g² has five unpaired electrons; low-spin t₂g⁵e_g⁰ has one unpaired electron.

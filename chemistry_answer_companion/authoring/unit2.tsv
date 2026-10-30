@@ -1,0 +1,72 @@
+73|Oxidation is loss of electrons; reduction is gain of electrons. They occur together in a redox reaction.
+74|A galvanic cell uses a spontaneous redox reaction to produce electrical energy (anode negative); an electrolytic cell uses an external supply to drive a non-spontaneous reaction (anode positive). Oxidation is at the anode and reduction at the cathode in both.
+75|EMF is the open-circuit potential difference between the cell terminals, equal to the maximum electrical work per unit charge under specified conditions.
+76|Standard electrode potential is a reduction potential measured relative to the standard hydrogen electrode under standard conditions: solute activities 1 (approximately 1 M), gases 1 bar, pure solids/liquids, specified temperature (usually 298 K).
+77|An absolute single-electrode potential cannot be measured independently; only cell differences are measurable. Assigning the SHE zero is a reference convention that allows all other electrode potentials to be tabulated consistently.
+78|Daniell cell: Zn(s)|Zn²⁺(aq, 1 M)||Cu²⁺(aq, 1 M)|Cu(s), with the anode on the left.
+79|Maximum non-expansion electrical work is −nFE_cell. At reversible standard conditions ΔG°=w_max, so ΔG°=−nFE°_cell.
+80|For a balanced cell reaction, E=E°−(RT/nF)ln Q. At 298 K, E=E°−(0.05916 V/n)log₁₀Q.
+81|Zn(s)+Cu²⁺→Zn²⁺+Cu(s), Q=a(Zn²⁺)/a(Cu²⁺). E=E°−(RT/2F)ln([Zn²⁺]/[Cu²⁺]); at 298 K use 0.05916/2 times log₁₀ of that ratio.
+82|ΔG=−nFE_cell: E>0 means ΔG<0 and forward reaction spontaneous; E=0 is equilibrium; E<0 means the forward reaction is non-spontaneous as written.
+83|ΔG°=−nFE°=−(2)(96500)(1.10)=−2.123×10⁵ J mol⁻¹=−212.3 kJ mol⁻¹.
+84|For the balanced cell reaction, K is the equilibrium ratio of product activities to reactant activities, each raised to its stoichiometric coefficient; pure solids and liquids are omitted.
+85|At equilibrium E=0 and Q=K. The Nernst equation gives E°=(RT/nF)lnK; at 298 K, E°=(0.05916 V/n)log₁₀K.
+86|The salt bridge completes the ionic circuit and maintains electroneutrality by ion migration, while limiting direct mixing of the half-cell solutions.
+87|At equilibrium Q=K, so E=0 and ΔG=0. There is no net thermodynamic driving force for electron flow or net cell reaction.
+88|Specific conductivity κ is conductance of a solution column of unit length and unit cross-sectional area (κ=G l/A). SI unit: S m⁻¹.
+89|Molar conductivity Λ_m is conductivity multiplied by volume containing one mole of electrolyte. Usual unit: S cm² mol⁻¹ (SI: S m² mol⁻¹).
+90|Dilution reduces the number of ions per unit volume, so κ falls. Per mole, ions experience less interionic restraint and weak electrolytes ionise more, so Λ_m rises.
+91|For strong electrolytes Λ_m rises modestly on dilution as interionic effects diminish; for weak electrolytes it rises sharply because dilution also increases ionisation.
+92|A weak electrolyte is only partly ionised when concentrated; dilution shifts its ionisation equilibrium toward ions, increasing the number of charge carriers and Λ_m substantially.
+93|At infinite dilution each ion contributes independently to total molar conductivity: Λ_m°=ν₊λ₊°+ν₋λ₋°, with stoichiometric coefficients ν_i.
+94|By ionic additivity, Λ_m°(CH₃COOH)=Λ_m°(HCl)+Λ_m°(CH₃COONa)−Λ_m°(NaCl); the strong-electrolyte terms cancel Na⁺ and Cl⁻, leaving H⁺ and acetate contributions.
+95|For a weak electrolyte, degree of dissociation α=Λ_m/Λ_m°, where Λ_m is measured at the concentration and Λ_m° is the limiting value.
+96|Measure Λ_m and obtain Λ_m° (e.g. by Kohlrausch’s law); set α=Λ_m/Λ_m°. For a weak 1:1 electrolyte of concentration c, K_a=cα²/(1−α).
+97|Faraday’s first law: the mass deposited or liberated at an electrode is directly proportional to the charge passed, m∝Q.
+98|Faraday’s second law: for the same charge through different electrolytes, deposited masses are proportional to their chemical equivalent masses (molar mass divided by electron number).
+99|Ag⁺+e⁻→Ag requires one mole of electrons per mole Ag. Q=F=9.65×10⁴ C to deposit one mole.
+100|Q=It=2.0×(30×60)=3600 C. n(Cu)=Q/(2F)=0.01865 mol; m=0.01865×63.5=1.18 g.
+101|The electrolyte supplies mobile ions to carry current, completes ionic conduction, and undergoes the electrode reactions; it must be sufficiently ionically conducting.
+102|Molten NaCl: Na⁺ is reduced to Na(l) at the cathode; Cl⁻ is oxidised to Cl₂(g) at the anode. Aqueous NaCl: water is reduced to H₂ at the cathode and NaOH remains; concentrated brine gives Cl₂ at the anode, while very dilute chloride can give O₂ instead.
+103|A Leclanché dry cell has a zinc container (anode), central carbon rod with MnO₂/carbon depolariser (cathode mixture), and moist NH₄Cl/ZnCl₂ paste electrolyte. Zn oxidation and cathodic reduction generate current; it is a primary, non-rechargeable cell.
+104|A lead accumulator has a Pb negative plate, PbO₂ positive plate, porous separators and aqueous H₂SO₄ electrolyte in a container. Both plates become PbSO₄ during discharge; charging reverses the reaction.
+105|Negative plate: Pb+SO₄²⁻→PbSO₄+2e⁻. Positive plate: PbO₂+4H⁺+SO₄²⁻+2e⁻→PbSO₄+2H₂O. Overall: Pb+PbO₂+2H₂SO₄→2PbSO₄+2H₂O.
+106|A fuel cell continuously converts supplied fuel and oxidant directly to electrical energy through redox reactions. An advantage is high efficiency with low local pollutant emission (for H₂/O₂, water is the product).
+107|In alkaline electrolyte: anode H₂+2OH⁻→2H₂O+2e⁻; cathode ½O₂+H₂O+2e⁻→2OH⁻. Overall H₂+½O₂→H₂O.
+108|Corrosion involves spatially separated anodic metal oxidation and cathodic reduction reactions on a conducting wet surface, coupled by electron and ion transport—an electrochemical cell.
+109|At anodic sites Fe→Fe²⁺+2e⁻. At aerated cathodic sites O₂+2H₂O+4e⁻→4OH⁻. Fe²⁺ forms Fe(OH)₂, then oxidises/hydrates to Fe(III) oxyhydroxides and hydrated rust, often represented as Fe₂O₃·xH₂O.
+110|Primary batteries are normally non-rechargeable because their cell reaction is not practically reversible. Secondary batteries can be recharged by driving the reverse reaction with an external current.
+111|ΔG°=−nFE°. Since E°=+0.46 V and n>0, ΔG°<0; the reaction as written is standard-state spontaneous.
+112|The electrochemical series ranks redox couples by standard reduction potential. It helps predict cell EMFs/spontaneity and compare oxidising or reducing strengths, including likely displacement reactions.
+113|Compare standard reduction potentials: the species with the more positive E° is reduced at the cathode. A metal M can displace N²⁺ if E°cell=E°(N²⁺/N)−E°(M²⁺/M)>0 for M+N²⁺→M²⁺+N.
+114|It is measured relative to the standard hydrogen electrode (SHE), whose potential is defined as zero under standard conditions.
+115|As reaction proceeds, ion activities change and hence Q changes. The Nernst equation E=E°−(RT/nF)lnQ therefore makes the cell potential vary until it reaches zero at equilibrium.
+116|Limiting molar conductivity Λ_m° is the molar conductivity extrapolated to infinite dilution, where interionic interactions vanish and ions migrate independently.
+117|Ionic mobility is drift velocity per unit electric field for a particular ion. Conductivity is the bulk ability of all ions in solution to carry current and depends on concentration, charge and mobility.
+118|Higher temperature generally lowers solvent viscosity and increases ionic mobility; it may also increase weak-electrolyte ionisation, raising conductivity.
+119|κ=cell constant/R=1.25 cm⁻¹/200 Ω=0.00625 S cm⁻¹.
+120|Λ_m=κ×1000/c=(1.5×10⁻³ S cm⁻¹×1000 cm³ L⁻¹)/(0.01 mol L⁻¹)=150 S cm² mol⁻¹.
+121|Metallic conduction is electron motion without bulk chemical change. Electrolytic conduction is ion motion in solution or melt and is accompanied by electrode redox reactions.
+122|For n>0, ΔG°=−nFE°=0. Also ΔG°=−RT lnK, hence K=1 at that temperature under standard-state conventions.
+123|Electrons flow through the external circuit from the zinc anode to the copper cathode.
+124|E°cell=E°cathode−E°anode=0.34−(−0.76)=1.10 V.
+125|Anode is where oxidation supplies electrons in a galvanic cell, making it negative. In an electrolytic cell the power supply removes electrons from the anode, making it positive; oxidation still occurs there.
+126|For a two-electron cell reaction, ΔG°=−2FE°cell (per mole of reaction as written).
+127|Anions from the bridge migrate toward the anode compartment, where positive charge is produced; cations migrate toward the cathode compartment, where cations are consumed, maintaining bulk neutrality.
+128|For Ox+ne⁻→Red, Q=a(Red)/a(Ox); increasing Ox lowers Q and raises E by Nernst. If the oxidised species occurs on the product side of the chosen cell reaction, the direction reverses; the balanced reaction must be specified.
+129|Q is the ratio of instantaneous product activities to reactant activities, each raised to its stoichiometric coefficient; pure solids and liquids are omitted. Unlike K, it need not describe equilibrium.
+130|E=E°−(0.05916/2)log₁₀(100)=0.50−0.05916=0.44084 V≈0.441 V.
+131|Molar conductivity normalises conductivity to the amount of electrolyte, allowing comparison of ion-transport contribution per mole at different concentrations.
+132|At finite concentration, oppositely charged ions attract and like-charged ions repel, hindering independent motion and lowering ionic mobility and Λ_m; dilution reduces these effects.
+133|Cell constant is electrode separation divided by electrode area, l/A (cm⁻¹). Determine it by measuring resistance/conductance of a standard solution with known κ.
+134|κ=G×cell constant=(0.005 S)(0.8 cm⁻¹)=0.0040 S cm⁻¹.
+135|For a weak electrolyte, ionisation is an equilibrium; dilution favours the side with more dissolved particles, increasing the fraction ionised (Ostwald dilution law).
+136|Λ°_m(CH₃COOH)=Λ°_m(HCl)+Λ°_m(CH₃COONa)−Λ°_m(NaCl).
+137|Electrochemical equivalent Z is mass deposited/liberated per unit charge passed: Z=m/Q; SI unit kg C⁻¹.
+138|n(Ag)=1.08/108=0.0100 mol, so Q=0.0100F=965 C. At 1.0 A, t=Q/I=965 s (about 16.1 min).
+139|Overvoltage (overpotential) is the extra potential beyond the reversible thermodynamic electrode potential needed to sustain electrolysis at a stated current density, due to kinetic and transport effects.
+140|In aqueous Na₂SO₄, water is reduced at the cathode to H₂ and oxidised at the anode to O₂; Na⁺ and SO₄²⁻ mainly maintain conductivity. Water reduction is favoured over Na⁺→Na because sodium metal would immediately react with water.
+141|PbO₂ is the positive plate’s oxidising active material: it accepts electrons during discharge and is reduced to PbSO₄, giving the cell a useful positive electrode potential.
+142|A hydrogen fuel cell spontaneously converts chemical energy of continuously supplied H₂/O₂ to electricity and water. An electrolytic cell consumes electrical energy to drive a non-spontaneous chemical change.
+143|Potential is energy per unit charge (J C⁻¹), independent of the total amount of electrode material or reaction; it is an intensive quantity.
+144|Different ion activities create a chemical-potential gradient. The dilute side is the anode (metal oxidises, raising its ion concentration); the concentrated side is the cathode (ions reduce and plate). Electrons flow dilute→concentrated externally. For Mᶻ⁺, E=(RT/zF)ln(a_high/a_low); no unique numeric value is possible without z and activity data.

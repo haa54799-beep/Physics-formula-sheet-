@@ -1,0 +1,72 @@
+145|Reaction rate is change in concentration of a reactant or product per unit time, with stoichiometric normalization and a negative sign for reactants so the rate is positive.
+146|Average rate is concentration change divided by a finite time interval. Instantaneous rate is the derivative d(concentration)/dt at a particular time (with stoichiometric sign/normalization).
+147|For aA→bB, rate=−(1/a)d[A]/dt=(1/b)d[B]/dt; stoichiometric coefficients make the rates calculated from each species equal.
+148|Rate law is an experimentally determined relation such as rate=k[A]^m[B]^n. The rate constant k is the proportionality coefficient at a specified temperature; its units depend on overall order.
+149|Reaction order is the sum of the experimentally measured exponents in the rate law; individual orders are the exponents of the corresponding concentrations.
+150|Molecularity is the number of reacting entities in a single elementary step and is a positive integer. Order is the sum of empirical rate-law exponents and applies to an overall reaction or step; it may be zero or fractional.
+151|Order is inferred from measured rate dependence and can be any real value, including zero or negative. Molecularity counts discrete species colliding in one elementary event, so it is a positive integer.
+152|A pseudo-first-order reaction is actually of higher order but behaves first order when one reactant is in large excess and effectively constant; e.g. ester hydrolysis in excess water.
+153|Water is present in huge excess, so its concentration changes negligibly. In rate=k[ester][H₂O], absorb the nearly constant [H₂O] into k_obs=k[H₂O], giving rate=k_obs[ester].
+154|For A→products at zero order: [A]_t=[A]_0−kt (valid until reactant is depleted).
+155|For A→products at first order: ln([A]_0/[A]_t)=kt, or [A]_t=[A]_0e^(−kt).
+156|For a zero-order reaction, t_1/2=[A]_0/(2k).
+157|For a first-order reaction, t_1/2=ln2/k=0.693/k.
+158|At half-life, [A]_t=[A]_0/2. Substitute into ln([A]_0/[A]_t)=kt: ln2=kt_1/2, so t_1/2=0.693/k, independent of [A]_0.
+159|75% complete means 25% remains, equal to one quarter of the initial amount: two half-lives have elapsed. Thus t_1/2=40/2=20 min.
+160|k=(1/t)ln([A]_0/[A]_t)=ln(1/0.20)/30=ln5/30=0.0536 min⁻¹.
+161|For zero order, [A]_t=[A]_0−kt. t=(0.10−0.04)/(2.0×10⁻³)=30 s.
+162|Zero-order k has concentration/time units, e.g. mol L⁻¹ s⁻¹ (M s⁻¹).
+163|First-order k has units of inverse time, e.g. s⁻¹ or min⁻¹.
+164|A straight-line plot of [A] versus t identifies zero-order behaviour; its slope is −k and its intercept is [A]_0.
+165|A straight-line plot of ln[A] versus t identifies first-order behaviour; its slope is −k and its intercept is ln[A]_0.
+166|Arrhenius equation: k=Ae^(−E_a/RT), or ln k=ln A−E_a/(RT), where A is the frequency factor.
+167|Activation energy E_a is the energy barrier between reactants and the activated state along a reaction pathway; it is the minimum additional energy required in the simple Arrhenius picture.
+168|A catalyst provides a pathway with lower activation barriers for both forward and reverse reactions. It speeds both directions but leaves ΔG° and K unchanged, so equilibrium composition is unchanged.
+169|Collision theory models reaction as molecular collisions; only collisions with sufficient energy and suitable orientation are effective and form products.
+170|Most collisions lack energy at least equal to the threshold/activation energy or have unsuitable orientation for bond rearrangement, so they do not form products.
+171|An effective collision has sufficient energy to overcome the activation barrier and an orientation that permits the required bonds to break/form.
+172|Even energetic molecules may not react if reactive sites do not meet in the proper geometry. Correct orientation is represented by a steric/orientation factor in collision theory.
+173|Increasing reactant concentration generally increases collision frequency and, for positive-order species, raises the rate; the exact dependence is set by the rate law.
+174|Increasing temperature generally raises the rate constant because a larger fraction of molecules has energy at or above E_a; rates usually increase substantially.
+175|The Arrhenius factor e^(−E_a/RT) changes exponentially with 1/T; heating appreciably increases the fraction of molecules able to cross the barrier, especially for large E_a.
+176|Use ln(k₂/k₁)=E_a/R(1/T₁−1/T₂). E_a=8.314 ln2/(1/300−1/310)=5.36×10⁴ J mol⁻¹≈53.6 kJ mol⁻¹.
+177|A is the Arrhenius frequency factor (pre-exponential factor), reflecting collision frequency and orientation probability; it has the same units as k.
+178|From ln k=ln A−E_a/(RT), subtract values at T₁ and T₂: ln(k₂/k₁)=−E_a/R(1/T₂−1/T₁)=E_a/R(1/T₁−1/T₂).
+179|For ln k versus 1/T, slope=−E_a/R and intercept=ln A. The plot gives activation energy and frequency factor.
+180|Find slope m of ln k versus 1/T; E_a=−mR. If log₁₀k is plotted instead, E_a=−2.303Rm.
+181|A slow rate is an observed outcome that can also reflect low concentration or an unfavourable mechanism/pre-exponential factor. High E_a is a property of a pathway’s energy barrier and often causes low rates at a given T, but the terms are not identical.
+182|An overall stoichiometric equation does not reveal the elementary steps or intermediates. Therefore rate exponents cannot generally be inferred from its coefficients and must be measured experimentally (except for an elementary step).
+183|Overall order=2+1=3 (second order in A and first order in B).
+184|Rate factor=(2²)(3¹)=12; doubling [A] and tripling [B] makes the rate twelve times larger.
+185|The rate-determining step is the slow step that constrains the overall reaction rate under the stated conditions; its position and preceding equilibria determine the observed law.
+186|An elementary step is a single molecular event, so its molecularity specifies the colliding species and its rate law. An overall equation combines multiple steps and its coefficients need not be the kinetic exponents.
+187|The overall reaction is the net stoichiometric change. A mechanism is the sequence of elementary steps, intermediates and transition states that produces that net change.
+188|t_1/2=0.693/k=0.693/(6.93×10⁻³ min⁻¹)=100 min.
+189|After two half-lives, fraction remaining=(1/2)²=1/4=25%.
+190|For zero order, k=([A]_0−[A]_t)/t=(0.10−0.06)/20=0.0020 M min⁻¹.
+191|A catalyst lowers the activation energy for both forward and reverse reactions through an alternative pathway; the change in barrier is consistent with the unchanged reaction ΔG.
+192|A catalyst accelerates forward and reverse reactions and helps equilibrium be reached sooner; it does not change ΔG° or K, so it cannot shift equilibrium composition.
+193|Thermal reactions receive energy through heat, usually a thermal molecular energy distribution. Photochemical reactions are initiated by absorption of photons, often producing electronically excited species.
+194|Elementary collision theory treats molecules as simple colliding particles and is approximate for complex polyatomic molecules, solvent effects, energy redistribution, multi-step pathways and detailed orientation/entropy effects.
+195|Order in A=1; order in B=2; overall order=1+2=3.
+196|Rate factor=(1/2)²×2=1/2. The rate becomes half its original value.
+197|At a fixed temperature and for unchanged mechanism, k is the proportionality constant set by the pathway and temperature; concentration dependence is represented separately by concentration powers in the rate law.
+198|90% complete leaves 10%. k=ln(10)/50=0.0461 min⁻¹.
+199|After three half-lives, fraction remaining=(1/2)³=1/8=12.5%.
+200|For zero order, t_1/2=[A]_0/(2k)=0.80/(2×0.02)=20 min.
+201|In a plot of ln[A] versus time, slope=−k. The negative sign reflects the decrease in reactant concentration; its magnitude is the first-order rate constant.
+202|For zero order, t_1/2=[A]_0/(2k), so it increases with initial concentration. For first order, t_1/2=0.693/k and is independent of initial concentration.
+203|A catalyst creates an alternative pathway with a lower activation barrier (or different sequence of steps), increasing rate without changing the net reaction equilibrium.
+204|For ln k versus 1/T, slope=−E_a/R. For log₁₀k versus 1/T, slope=−E_a/(2.303R), smaller in magnitude by factor 2.303.
+205|Threshold energy is the minimum collision energy required to reach a reactive state and form products; in the simple model it is associated with the activation barrier.
+206|The Boltzmann fraction of molecules with energy at least E_a depends exponentially on −E_a/RT. A larger E_a makes that fraction especially responsive to a temperature increase.
+207|Yes. A negative order can occur when a reactant inhibits the reaction, blocks catalyst sites, or changes a pre-equilibrium; it is an empirical rate-law effect, not a negative molecularity.
+208|Product binding can inhibit active sites, while adsorption can saturate or block a surface. Rates can then rise less than proportionally or even fall as concentration increases, producing zero or negative apparent orders.
+209|Rate is the concentration change per time and usually varies as concentrations change. k is the rate-law proportionality constant at fixed temperature and mechanism, independent of reactant concentrations.
+210|rate=k[A]. Doubling B has no effect because B has zero order in the stated rate law.
+211|Rate always has concentration/time units. Since rate=k(concentration)^n, k must have units concentration^(1−n) time⁻¹ so the equation is dimensionally consistent.
+212|90% complete leaves 10%; t=ln(10)/k=2.3026/0.0231=99.7 min (about 100 min).
+213|Effective collision energy is the component of relative molecular energy available along the reaction coordinate; it must meet or exceed the threshold for reaction.
+214|E_a is the forward/reverse barrier from a reactant state to the transition state and is non-negative for a pathway. ΔH is the energy difference between products and reactants and may be positive or negative; they are not generally equal.
+215|Catalysts can bind selected reactants or transition states and provide a lower-energy pathway only for particular structures, so they may accelerate some reactions much more than others.
+216|For first order, 99% completion leaves 0.01[A]₀, so t₉₉=ln100/k. Since t_1/2=ln2/k, t₉₉/t_1/2=ln100/ln2=6.64 half-lives.

@@ -1,0 +1,72 @@
+1|A solution is a homogeneous mixture. Unsaturated solutions can dissolve more solute at the stated temperature; saturated solutions are at equilibrium with undissolved solute; supersaturated solutions contain more dissolved solute than the equilibrium solubility and are metastable.
+2|For a non-volatile solute, only solvent contributes appreciably to vapour. Its mole fraction is below one, so Raoult’s law gives p_solvent=x_solvent p°_solvent<p°_solvent.
+3|For ideal binary volatile liquids A and B: p_A=x_Ap_A°, p_B=x_Bp_B° and P_total=p_A+p_B=x_Ap_A°+x_Bp_B°.
+4|For solvent A and non-volatile solute B, p_A=x_Ap_A°. Thus (p_A°−p_A)/p_A°=1−x_A=x_B, the solute mole fraction. This assumes an ideal dilute solution and negligible solute vapour pressure.
+5|An ideal solution obeys Raoult’s law at every composition. Mixing has ΔH_mix=0 and ΔV_mix=0; unlike and like intermolecular interactions are approximately equal.
+6|Positive deviation occurs when A–B attractions are weaker than A–A/B–B, raising vapour pressure (e.g. ethanol–acetone approximately). Negative deviation occurs when A–B attractions are stronger, lowering vapour pressure (e.g. acetone–chloroform).
+7|Unlike molecules attract one another less strongly than like molecules; they escape more readily to vapour, so the observed vapour pressure exceeds Raoult’s-law prediction.
+8|Negative deviation indicates stronger A–B attractions. Mixing is generally exothermic, ΔH_mix<0, and contraction commonly gives ΔV_mix<0.
+9|Molarity M=moles solute/L solution; molality m=moles solute/kg solvent; mole fraction x_i=n_i/Σn; mass percent=100(mass solute/mass solution).
+10|Molality is based on solvent mass and is essentially independent of temperature, unlike molarity, whose volume basis changes with temperature.
+11|n(NaCl)=5.85/58.44=0.1001 mol; V=0.500 L. M=0.1001/0.500=0.200 mol L⁻¹ (3 s.f.).
+12|n(glucose)=18/180=0.100 mol; n(H₂O)=180/18=10.0 mol. x_glucose=0.100/10.10=0.00990; x_water=10.0/10.10=0.99010.
+13|Solubility is the amount of solute that dissolves in a specified amount of solvent at a stated temperature (and pressure for gases) to form a saturated solution. Most solids become more soluble as temperature rises, but exceptions occur.
+14|Henry’s law: at fixed temperature, dissolved-gas mole fraction is proportional to its partial pressure: p=k_H x.
+15|Gas dissolution is usually exothermic. Heating favours gas escape (Le Châtelier), so gas solubility generally falls as temperature rises.
+16|High CO₂ pressure increases its dissolved mole fraction by Henry’s law; opening the bottle lowers pressure and the gas escapes as bubbles.
+17|At fixed temperature, Henry’s law gives x=p/k_H; dissolved-gas mole fraction rises linearly with partial pressure in the dilute range.
+18|A solid solution is a homogeneous solid mixture. Example: substitutional Cu–Ni alloy, where atoms of one metal replace atoms of the other in the lattice.
+19|Colligative properties depend on the number of dissolved particles, not their identity. The four are relative lowering of vapour pressure, boiling-point elevation, freezing-point depression and osmotic pressure.
+20|In dilute ideal solutions, solvent chemical potential changes according to solute-particle mole fraction. Therefore effects scale with particle count; dissociation/association changes the count and is captured by i.
+21|Relative lowering is (p°−p)/p°, where p° is pure-solvent vapour pressure and p is solution vapour pressure. For an ideal solution with non-volatile solute it equals x_solute.
+22|Boiling-point elevation is ΔT_b=T_b(solution)−T_b°; for a dilute solution, ΔT_b=K_b m (or iK_bm for an electrolyte).
+23|Freezing-point depression is ΔT_f=T_f°−T_f(solution); for a dilute solution, ΔT_f=K_f m (or iK_fm for an electrolyte).
+24|Osmotic pressure π is the minimum external pressure applied to a solution to stop net solvent flow through a semipermeable membrane.
+25|At equilibrium, μ_A*(P)=μ_A(solution,P+π)≈μ_A*(P)+V_Aπ+RT ln x_A, so π=−(RT/V_A)ln x_A. For a dilute solution, −ln x_A≈x_B≈n_B/n_A and V≈n_AV_A; hence πV≈n_BRT, or π=CRT with C=n_B/V. Assumptions: ideal dilute solution, small pressure correction, constant solvent partial molar volume, solvent-only membrane, uniform T, and negligible solute volatility.
+26|For dilute polymer solutions, π is measurable at low concentration without heating or freezing the macromolecule. From πV=nRT, its molar mass can be obtained even when other colligative changes are very small.
+27|Osmosis is net solvent flow from lower solute concentration (lower π) to higher π through a semipermeable membrane. Reverse osmosis applies pressure greater than π to reverse that flow; it is used for desalination.
+28|Isotonic solutions have equal osmotic pressure at the same T. Hypertonic has higher π than the reference; hypotonic has lower π. Solvent tends to flow toward the hypertonic side.
+29|Solvent flows from the solution of lower osmotic pressure to that of higher osmotic pressure until equilibrium, provided the membrane is selectively permeable to solvent.
+30|An abnormal molar mass is an experimentally inferred value that differs from the formula molar mass because solute particles associate or dissociate in solution.
+31|The van’t Hoff factor i is observed colligative effect divided by the value calculated for a non-associating, non-dissociating solute at the same concentration. Equivalently, i=M_formula/M_observed.
+32|Association reduces the number of solute particles, so i<1. Since M_observed=M_formula/i, the apparent molar mass is greater than the formula molar mass.
+33|Dissociation increases particle count, so i>1. Consequently M_observed=M_formula/i is smaller than the formula molar mass.
+34|In dilute water NaCl dissociates mainly into Na⁺ and Cl⁻, increasing the number of particles; hence i is greater than one (approaching 2 at ideal infinite dilution).
+35|For initial N molecules, dimerisation of fraction α leaves N(1−α)+Nα/2 particles. Thus i=1−α/2.
+36|If one solute unit produces n particles upon dissociation, initial N units yield N(1−α)+nNα particles. Therefore i=1+α(n−1).
+37|Required data: solute mass, solvent mass, K_f, measured ΔT_f, and confirmation that i=1 (or an independently known i). Then m=ΔT_f/(iK_f) and molar mass=solute mass/(molality×kg solvent).
+38|For a non-electrolyte, ΔT_f=K_fm=(1.86 K kg mol⁻¹)(0.20 mol kg⁻¹)=0.372 K.
+39|i=ΔT_f/(K_fm)=0.279/(1.86×0.10)=1.50.
+40|n=πV/RT=(0.0246 atm×0.100 L)/(0.0821 L atm mol⁻¹ K⁻¹×300 K)=9.99×10⁻⁵ mol. M=1.0 g/n≈1.00×10⁴ g mol⁻¹.
+41|A non-volatile solute lowers solvent vapour pressure. The solution must be heated to a higher temperature to reach the external pressure at boiling.
+42|Ethylene glycol lowers the mole fraction and chemical potential of water; the liquid must be cooled further to reach equilibrium with ice, so its freezing point falls.
+43|For equal molality in the same solvent, ΔT_b/ΔT_f=K_b/K_f. The two temperature changes are not generally equal because the solvent constants differ.
+44|Positive deviation implies weaker solute–solvent attractions than the average like-component attractions; molecules escape more readily and vapour pressure is higher.
+45|Ideal solutions obey Raoult’s law throughout and have ΔH_mix=ΔV_mix=0. Non-ideal solutions deviate because unlike interactions differ; ΔH_mix and/or ΔV_mix are non-zero.
+46|Mixing acetone disrupts some ethanol–ethanol hydrogen bonding, and acetone–ethanol attractions are comparatively weaker than the original interactions; this can produce positive deviation.
+47|An azeotrope boils at fixed composition because liquid and vapour compositions match, so it distils without composition change. Positive deviation gives a minimum-boiling azeotrope; negative deviation gives a maximum-boiling one.
+48|At the azeotropic composition, vapour has the same composition as liquid. Fractional distillation cannot enrich one component past that composition at the azeotropic pressure.
+49|Increasing temperature raises the fraction of molecules with enough energy to escape the liquid, so equilibrium vapour pressure increases.
+50|Mole fraction is based on moles, not mass. For equal masses, n=m/M; the liquid with lower molar mass contributes more moles, so the fractions generally differ.
+51|Mass percent=100×12/(12+108)=10.0% (w/w).
+52|moles solute=(2.0 mol kg⁻¹)(0.500 kg water)=1.00 mol.
+53|10% (w/w) means 10 g solute in every 100 g of total solution (90 g solvent for a binary solution).
+54|n(urea)=5/60.06=0.0833 mol; solvent=0.095 kg. Molality=0.0833/0.095=0.877 mol kg⁻¹.
+55|For each volatile component, p_i=x_i p_i° in an ideal solution. Changing its mole fraction changes its partial pressure and therefore the total vapour pressure.
+56|For ideal binary liquids A and B: p_A=x_Ap_A°, p_B=x_Bp_B°; P_total=x_Ap_A°+x_Bp_B°.
+57|For P_total versus x_A, slope is p_A°−p_B°. Partial-pressure lines have slopes +p_A° for A and −p_B° for B when plotted against x_A.
+58|If unlike A–B attractions are weaker, molecules escape more readily (positive deviation); if stronger, escape is suppressed (negative deviation). Heat/volume changes often have matching signs but are not the defining criterion.
+59|Higher pressure increases gas chemical potential above the liquid and drives more gas into solution; at fixed T the proportionality is Henry’s law.
+60|x=p/k_H=50 kPa/(1.0×10⁵ kPa)=5.0×10⁻⁴.
+61|Molality is moles solute per kilogram solvent and depends on solvent mass. Mole fraction is moles of one component divided by total moles and is dimensionless.
+62|ΔT_b=K_bm=(0.512 K kg mol⁻¹)(0.50 mol kg⁻¹)=0.256 K.
+63|A semipermeable membrane must pass solvent but retain solute; otherwise no selective solvent flow or measurable osmotic pressure develops.
+64|i=π/(CRT)=1.23/[0.050×0.0821×300]=0.999≈1.00.
+65|It requires precise temperature measurement and enough sample; small ΔT_b may be difficult to resolve. Volatile or thermally unstable solutes/solvents can also invalidate the method.
+66|For dissociation into 3 particles, i=1+α(n−1)=1+0.60(2)=2.20.
+67|i=1 indicates the effective particle count equals the formula-unit count: negligible association/dissociation in the ideal dilute limit.
+68|For trimerisation, i=1−2α/3 because each associated group of three replaces three particles by one.
+69|The method requires heating to boiling; a thermally unstable solute may decompose or react, so the measured boiling point would not represent the original solution.
+70|Association gives i<1 and M_observed>M_formula; dissociation gives i>1 and M_observed<M_formula. The direction and size of the discrepancy diagnose particle-number change.
+71|Each volatile component contributes a partial pressure; for an ideal mixture p_i=x_i p_i°, and Dalton’s law gives P_total=Σ_i p_i.
+72|CaCl₂→Ca²⁺+2Cl⁻, so i≈3. ΔT_b=iK_bm=3×0.512×0.20=0.307 K (complete dissociation, dilute-solution assumption).

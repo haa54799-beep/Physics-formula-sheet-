@@ -1,0 +1,501 @@
+﻿question_id,number,unit_number,unit_title,source_pdf_page,source_tag,primary_type,type_tags,question_text
+U1-Q001,1,1,Solutions,1,M,comparison/classification,comparison/classification,"Define a solution and distinguish between a saturated, unsaturated and supersaturated solution."
+U1-Q002,2,1,Solutions,1,M,explanation/application,explanation/application; definition/concept,Explain why a solution of a non-volatile solute has a lower vapour pressure than the pure solvent.
+U1-Q003,3,1,Solutions,1,M,definition/concept,definition/concept,State Raoult’s law for a solution containing two volatile components.
+U1-Q004,4,1,Solutions,1,H,derivation,derivation,Derive the relation between relative lowering of vapour pressure and mole fraction of a non-volatile solute.
+U1-Q005,5,1,Solutions,1,M,definition/concept,definition/concept,What is an ideal solution? Give two conditions for ideal behaviour.
+U1-Q006,6,1,Solutions,1,H,explanation/application,explanation/application; definition/concept,Explain positive and negative deviations from Raoult’s law with suitable examples.
+U1-Q007,7,1,Solutions,1,M,explanation/application,explanation/application; definition/concept,Why do some liquid pairs show positive deviation from Raoult’s law?
+U1-Q008,8,1,Solutions,1,H,definition/concept,definition/concept,A liquid mixture shows negative deviation from Raoult’s law. Predict the signs of ΔHmix and ΔVmix and justify.
+U1-Q009,9,1,Solutions,1,M,definition/concept,definition/concept,"Define molarity, molality, mole fraction and mass percentage."
+U1-Q010,10,1,Solutions,1,H,explanation/application,explanation/application; definition/concept,Why is molality preferred over molarity when studying colligative properties?
+U1-Q011,11,1,Solutions,1,M,quantitative/problem-solving,quantitative/problem-solving,Calculate the molarity of a solution containing 5.85 g NaCl in 500 mL of solution.
+U1-Q012,12,1,Solutions,1,H,quantitative/problem-solving,quantitative/problem-solving; reaction/equation,A solution is prepared by dissolving 18 g glucose in 180 g water. Calculate the mole fractions of glucose and water.
+U1-Q013,13,1,Solutions,1,M,definition/concept,definition/concept,Define solubility and state the effect of temperature on the solubility of most solids in liquids.
+U1-Q014,14,1,Solutions,1,M,definition/concept,definition/concept,State Henry’s law and write its mathematical expression.
+U1-Q015,15,1,Solutions,1,H,explanation/application,explanation/application; definition/concept,Explain why the solubility of a gas in a liquid generally decreases when temperature increases.
+U1-Q016,16,1,Solutions,1,M,explanation/application,explanation/application; definition/concept,Why are soft drinks bottled under high pressure?
+U1-Q017,17,1,Solutions,1,H,explanation/application,explanation/application; definition/concept,"At a fixed temperature, explain how the mole fraction of a dissolved gas depends on its partial pressure."
+U1-Q018,18,1,Solutions,1,M,definition/concept,definition/concept,What are solid solutions? Give one example of a substitutional solid solution.
+U1-Q019,19,1,Solutions,2,M,definition/concept,definition/concept,Define colligative properties and list the four principal colligative properties.
+U1-Q020,20,1,Solutions,2,H,explanation/application,explanation/application; definition/concept,Why do colligative properties depend on the number of solute particles rather than their chemical identity?
+U1-Q021,21,1,Solutions,2,M,definition/concept,definition/concept,Define relative lowering of vapour pressure.
+U1-Q022,22,1,Solutions,2,M,definition/concept,definition/concept,Define elevation in boiling point and write its relation to molality.
+U1-Q023,23,1,Solutions,2,M,definition/concept,definition/concept,Define depression in freezing point and write its relation to molality.
+U1-Q024,24,1,Solutions,2,M,definition/concept,definition/concept,What is osmotic pressure?
+U1-Q025,25,1,Solutions,2,H,derivation,derivation; reaction/equation,Derive the equation π = CRT for a dilute solution and state the assumptions involved.
+U1-Q026,26,1,Solutions,2,M,explanation/application,explanation/application; definition/concept,Why is osmotic pressure useful for determining the molar mass of macromolecules?
+U1-Q027,27,1,Solutions,2,H,comparison/classification,comparison/classification,Compare reverse osmosis and osmosis. Mention one practical application of reverse osmosis.
+U1-Q028,28,1,Solutions,2,M,definition/concept,definition/concept,"What are isotonic, hypertonic and hypotonic solutions?"
+U1-Q029,29,1,Solutions,2,H,definition/concept,definition/concept,Predict the direction of solvent flow when two solutions of different osmotic pressures are separated by a semipermeable membrane.
+U1-Q030,30,1,Solutions,2,M,definition/concept,definition/concept,What is an abnormal molar mass?
+U1-Q031,31,1,Solutions,2,M,quantitative/problem-solving,quantitative/problem-solving,Define the van’t Hoff factor and write its relation with observed and calculated colligative properties.
+U1-Q032,32,1,Solutions,2,H,explanation/application,explanation/application; definition/concept,Explain how association of solute particles affects the van’t Hoff factor and observed molar mass.
+U1-Q033,33,1,Solutions,2,H,explanation/application,explanation/application; definition/concept,Explain how dissociation of a solute affects its van’t Hoff factor and observed molar mass.
+U1-Q034,34,1,Solutions,2,M,explanation/application,explanation/application; definition/concept,Why does NaCl show a van’t Hoff factor greater than one in a dilute aqueous solution?
+U1-Q035,35,1,Solutions,2,H,derivation,derivation,"For a solute that dimerises, derive the relation between degree of association and van’t Hoff factor."
+U1-Q036,36,1,Solutions,2,H,derivation,derivation,"For a solute that dissociates into n particles, derive the relation between degree of dissociation and van’t Hoff factor."
+U1-Q037,37,1,Solutions,2,M,quantitative/problem-solving,quantitative/problem-solving,A solution contains 2 g of a non-volatile solute in 100 g water. What data are needed to calculate its molar mass using freezing-point depression?
+U1-Q038,38,1,Solutions,2,H,quantitative/problem-solving,quantitative/problem-solving,Calculate the freezing-point depression for a 0.20 mol kg⁻¹ aqueous solution of a non-electrolyte. Kf for water is 1.86 K kg mol⁻¹.
+U1-Q039,39,1,Solutions,3,H,quantitative/problem-solving,quantitative/problem-solving,A 0.1 mol kg⁻¹ solution of a solute has ΔTf = 0.279 K in water. Calculate its van’t Hoff factor. Kf = 1.86 K kg mol⁻¹.
+U1-Q040,40,1,Solutions,3,H,quantitative/problem-solving,quantitative/problem-solving,A solution contains 1.0 g of a polymer in 100 mL solution and has an osmotic pressure of 0.0246 atm at 300 K. Estimate its molar mass using R = 0.0821 L atm mol⁻¹ K⁻¹.
+U1-Q041,41,1,Solutions,3,M,explanation/application,explanation/application; definition/concept,Why is the boiling point of a solution containing a non-volatile solute higher than that of the pure solvent?
+U1-Q042,42,1,Solutions,3,H,explanation/application,explanation/application; definition/concept,Explain why adding ethylene glycol to water lowers the freezing point of the mixture.
+U1-Q043,43,1,Solutions,3,M,definition/concept,definition/concept,State the relationship between elevation in boiling point and depression in freezing point for the same molality.
+U1-Q044,44,1,Solutions,3,H,definition/concept,definition/concept,A solution has a higher vapour pressure than predicted by Raoult’s law. What can you infer about solute–solvent interactions?
+U1-Q045,45,1,Solutions,3,M,comparison/classification,comparison/classification,Distinguish between ideal and non-ideal solutions.
+U1-Q046,46,1,Solutions,3,H,explanation/application,explanation/application; definition/concept,Explain why a mixture of ethanol and acetone may show positive deviation from Raoult’s law.
+U1-Q047,47,1,Solutions,3,M,comparison/classification,comparison/classification,What is an azeotrope? Distinguish between minimum-boiling and maximum-boiling azeotropes.
+U1-Q048,48,1,Solutions,3,H,explanation/application,explanation/application; definition/concept,Explain why the composition of an azeotrope cannot be separated completely by simple fractional distillation.
+U1-Q049,49,1,Solutions,3,M,explanation/application,explanation/application; definition/concept,Why is the vapour pressure of a pure liquid affected by temperature?
+U1-Q050,50,1,Solutions,3,H,reaction/equation,reaction/equation; explanation/application,A solution is prepared by mixing equal masses of two liquids with different molar masses. Explain why their mole fractions will not generally be equal.
+U1-Q051,51,1,Solutions,3,M,quantitative/problem-solving,quantitative/problem-solving,Calculate the mass percentage of solute in a solution made by dissolving 12 g solute in 108 g solvent.
+U1-Q052,52,1,Solutions,3,H,quantitative/problem-solving,quantitative/problem-solving; reaction/equation,A 2 molal aqueous solution is prepared. Calculate the moles of solute present per 500 g of water.
+U1-Q053,53,1,Solutions,3,M,reaction/equation,reaction/equation,Convert a solution containing 10% (w/w) solute into a description of what the percentage means.
+U1-Q054,54,1,Solutions,3,H,quantitative/problem-solving,quantitative/problem-solving,A solution contains 5 g urea in 95 g water. Calculate its molality.
+U1-Q055,55,1,Solutions,3,M,explanation/application,explanation/application; definition/concept,Explain why the vapour pressure of a solution changes when the mole fraction of a volatile component changes.
+U1-Q056,56,1,Solutions,4,H,definition/concept,definition/concept,"For an ideal binary solution, write expressions for total vapour pressure and partial vapour pressures."
+U1-Q057,57,1,Solutions,4,M,explanation/application,explanation/application; definition/concept,What is the significance of the slope of a vapour-pressure versus mole- fraction plot for an ideal solution?
+U1-Q058,58,1,Solutions,4,H,explanation/application,explanation/application; definition/concept,Explain how intermolecular interactions determine whether mixing produces positive or negative deviation.
+U1-Q059,59,1,Solutions,4,M,explanation/application,explanation/application; definition/concept,Why does a gas dissolve more readily in a liquid at higher pressure?
+U1-Q060,60,1,Solutions,4,H,quantitative/problem-solving,quantitative/problem-solving,A gas has Henry’s law constant kH = 1.0 × 10⁵ kPa and partial pressure 50 kPa. Calculate its mole fraction in solution using p = kH x.
+U1-Q061,61,1,Solutions,4,M,comparison/classification,comparison/classification,Distinguish between molality and mole fraction.
+U1-Q062,62,1,Solutions,4,H,quantitative/problem-solving,quantitative/problem-solving,Calculate the boiling-point elevation of a 0.50 m glucose solution in water. Kb = 0.512 K kg mol⁻¹.
+U1-Q063,63,1,Solutions,4,M,explanation/application,explanation/application; definition/concept,Why is a semipermeable membrane essential for osmotic pressure measurements?
+U1-Q064,64,1,Solutions,4,H,quantitative/problem-solving,quantitative/problem-solving,A 0.05 M solution has osmotic pressure 1.23 atm at 300 K. Calculate its van’t Hoff factor using R = 0.0821 L atm mol⁻¹ K⁻¹.
+U1-Q065,65,1,Solutions,4,M,definition/concept,definition/concept,State one limitation of using boiling-point elevation to determine molar mass.
+U1-Q066,66,1,Solutions,4,H,quantitative/problem-solving,quantitative/problem-solving,A solute dissociates into three ions and has degree of dissociation 0.60. Calculate its van’t Hoff factor.
+U1-Q067,67,1,Solutions,4,M,definition/concept,definition/concept,What does a van’t Hoff factor equal to one indicate in an ideal dilute solution?
+U1-Q068,68,1,Solutions,4,H,derivation,derivation,"A compound associates to form trimers. If the degree of association is α, derive the expression for i."
+U1-Q069,69,1,Solutions,4,M,explanation/application,explanation/application; definition/concept,Why is the freezing-point depression method unsuitable for some thermally unstable solutes?
+U1-Q070,70,1,Solutions,4,H,explanation/application,explanation/application; definition/concept,Explain how experimental molar mass differing from formula molar mass can reveal association or dissociation.
+U1-Q071,71,1,Solutions,4,M,explanation/application,explanation/application; definition/concept,A solution contains a volatile solute and a volatile solvent. How does each component contribute to total vapour pressure?
+U1-Q072,72,1,Solutions,4,H,quantitative/problem-solving,quantitative/problem-solving,A 0.20 m solution of CaCl₂ is assumed to dissociate completely. Calculate its boiling-point elevation in water using Kb = 0.512 K kg mol⁻¹.
+U2-Q073,73,2,Electrochemistry,5,M,definition/concept,definition/concept,Define oxidation and reduction in terms of electron transfer.
+U2-Q074,74,2,Electrochemistry,5,M,comparison/classification,comparison/classification,Distinguish between a galvanic cell and an electrolytic cell.
+U2-Q075,75,2,Electrochemistry,5,M,definition/concept,definition/concept,What is the EMF of an electrochemical cell?
+U2-Q076,76,2,Electrochemistry,5,M,definition/concept,definition/concept,Define standard electrode potential and state the standard conditions.
+U2-Q077,77,2,Electrochemistry,5,H,explanation/application,explanation/application; definition/concept,Explain why the standard hydrogen electrode is assigned a potential of zero volts.
+U2-Q078,78,2,Electrochemistry,5,M,definition/concept,definition/concept,Write the cell notation for a Daniell cell.
+U2-Q079,79,2,Electrochemistry,5,H,derivation,derivation,Derive the relation between standard cell potential and standard Gibbs energy change.
+U2-Q080,80,2,Electrochemistry,5,M,reaction/equation,reaction/equation,State the Nernst equation for a general cell reaction.
+U2-Q081,81,2,Electrochemistry,5,H,reaction/equation,reaction/equation,Write the Nernst equation for the cell Zn(s)|Zn²⁺(aq)||Cu²⁺(aq)|Cu(s) at 298 K.
+U2-Q082,82,2,Electrochemistry,5,M,reaction/equation,reaction/equation,What is the relationship between cell potential and spontaneity of a cell reaction?
+U2-Q083,83,2,Electrochemistry,5,H,quantitative/problem-solving,quantitative/problem-solving; reaction/equation,A cell reaction has n = 2 and E°cell = 1.10 V. Calculate ΔG° using F = 96500 C mol⁻¹.
+U2-Q084,84,2,Electrochemistry,5,M,reaction/equation,reaction/equation,Define the equilibrium constant of a cell reaction.
+U2-Q085,85,2,Electrochemistry,5,H,derivation,derivation,Derive the relation between E°cell and the equilibrium constant at 298 K.
+U2-Q086,86,2,Electrochemistry,5,M,definition/concept,definition/concept,What is the function of a salt bridge in a galvanic cell?
+U2-Q087,87,2,Electrochemistry,5,H,reaction/equation,reaction/equation; explanation/application,Explain why a galvanic cell stops producing current when its cell reaction reaches equilibrium.
+U2-Q088,88,2,Electrochemistry,5,M,definition/concept,definition/concept,Define specific conductivity and state its SI unit.
+U2-Q089,89,2,Electrochemistry,5,M,definition/concept,definition/concept,Define molar conductivity and state its usual unit.
+U2-Q090,90,2,Electrochemistry,5,H,explanation/application,explanation/application; definition/concept,Explain why conductivity decreases on dilution while molar conductivity generally increases.
+U2-Q091,91,2,Electrochemistry,5,M,explanation/application,explanation/application; definition/concept,How does molar conductivity vary with concentration for strong and weak electrolytes?
+U2-Q092,92,2,Electrochemistry,5,H,explanation/application,explanation/application; definition/concept,Explain why the increase in molar conductivity on dilution is much greater for weak electrolytes.
+U2-Q093,93,2,Electrochemistry,5,M,definition/concept,definition/concept,State Kohlrausch’s law of independent migration of ions.
+U2-Q094,94,2,Electrochemistry,6,H,definition/concept,definition/concept,Show how Kohlrausch’s law can be used to determine the limiting molar conductivity of a weak electrolyte.
+U2-Q095,95,2,Electrochemistry,6,M,explanation/application,explanation/application; definition/concept,How can the degree of dissociation of a weak electrolyte be obtained from conductivity data?
+U2-Q096,96,2,Electrochemistry,6,H,quantitative/problem-solving,quantitative/problem-solving; explanation/application,Explain how the dissociation constant of a weak electrolyte can be calculated using conductivity measurements.
+U2-Q097,97,2,Electrochemistry,6,M,definition/concept,definition/concept,State Faraday’s first law of electrolysis.
+U2-Q098,98,2,Electrochemistry,6,M,definition/concept,definition/concept,State Faraday’s second law of electrolysis.
+U2-Q099,99,2,Electrochemistry,6,H,quantitative/problem-solving,quantitative/problem-solving,Calculate the charge required to deposit one mole of silver from Ag⁺ ions.
+U2-Q100,100,2,Electrochemistry,6,H,quantitative/problem-solving,quantitative/problem-solving,How much copper is deposited by passing 2.0 A current for 30 minutes through CuSO₄ solution? Use F = 96500 C mol⁻¹ and Cu = 63.5 g mol⁻¹.
+U2-Q101,101,2,Electrochemistry,6,M,explanation/application,explanation/application; definition/concept,What is the role of the electrolyte in an electrolytic cell?
+U2-Q102,102,2,Electrochemistry,6,H,reaction/equation,reaction/equation; comparison/classification,Compare the products of electrolysis of aqueous NaCl and molten NaCl.
+U2-Q103,103,2,Electrochemistry,6,M,definition/concept,definition/concept,Describe the construction and working principle of a dry cell.
+U2-Q104,104,2,Electrochemistry,6,M,definition/concept,definition/concept,Describe the main components of a lead accumulator.
+U2-Q105,105,2,Electrochemistry,6,H,reaction/equation,reaction/equation,Write the electrode reactions occurring during discharge of a lead accumulator.
+U2-Q106,106,2,Electrochemistry,6,M,definition/concept,definition/concept,What is a fuel cell? Give one advantage over a conventional cell.
+U2-Q107,107,2,Electrochemistry,6,H,reaction/equation,reaction/equation,"Write the anode, cathode and overall reactions for a hydrogen–oxygen fuel cell in alkaline medium."
+U2-Q108,108,2,Electrochemistry,6,M,explanation/application,explanation/application; definition/concept,Why is corrosion considered an electrochemical process?
+U2-Q109,109,2,Electrochemistry,6,H,reaction/equation,reaction/equation; explanation/application,Explain the electrochemical mechanism of rusting of iron.
+U2-Q110,110,2,Electrochemistry,6,M,comparison/classification,comparison/classification,What is the difference between primary and secondary batteries?
+U2-Q111,111,2,Electrochemistry,6,H,explanation/application,explanation/application; definition/concept,A cell has E°cell = 0.46 V. Explain how the sign of ΔG° is determined and what it implies.
+U2-Q112,112,2,Electrochemistry,6,M,definition/concept,definition/concept,Define the electrochemical series and mention two applications.
+U2-Q113,113,2,Electrochemistry,6,H,explanation/application,explanation/application; definition/concept,Use standard electrode potentials to explain how to predict whether one metal can displace another from its salt solution.
+U2-Q114,114,2,Electrochemistry,6,M,definition/concept,definition/concept,What is the standard electrode potential of an electrode measured against?
+U2-Q115,115,2,Electrochemistry,6,H,explanation/application,explanation/application; definition/concept,Explain why Ecell changes as the concentrations of ions change during cell operation.
+U2-Q116,116,2,Electrochemistry,6,M,definition/concept,definition/concept,Define limiting molar conductivity.
+U2-Q117,117,2,Electrochemistry,6,H,comparison/classification,comparison/classification; explanation/application,Explain the difference between ionic mobility and ionic conductivity.
+U2-Q118,118,2,Electrochemistry,7,M,explanation/application,explanation/application; definition/concept,Why does temperature generally increase the conductivity of an electrolytic solution?
+U2-Q119,119,2,Electrochemistry,7,H,quantitative/problem-solving,quantitative/problem-solving,A conductivity cell has resistance 200 Ω and cell constant 1.25 cm⁻¹. Calculate conductivity in S cm⁻¹.
+U2-Q120,120,2,Electrochemistry,7,H,quantitative/problem-solving,quantitative/problem-solving,A 0.01 M electrolyte solution has conductivity 1.5 × 10⁻³ S cm⁻¹. Calculate its molar conductivity in S cm² mol⁻¹.
+U2-Q121,121,2,Electrochemistry,7,M,explanation/application,explanation/application; definition/concept,Explain why electrolytic conduction differs from metallic conduction.
+U2-Q122,122,2,Electrochemistry,7,H,reaction/equation,reaction/equation,A reaction has E°cell = 0.00 V. What can be inferred about ΔG° and the equilibrium constant at standard conditions?
+U2-Q123,123,2,Electrochemistry,7,M,definition/concept,definition/concept,What is the direction of electron flow in an operating Daniell cell?
+U2-Q124,124,2,Electrochemistry,7,H,quantitative/problem-solving,quantitative/problem-solving,"Given E°(Cu²⁺/Cu) = +0.34 V and E°(Zn²⁺/Zn) = −0.76 V, calculate E°cell for a Daniell cell."
+U2-Q125,125,2,Electrochemistry,7,M,explanation/application,explanation/application; definition/concept,Why is the anode negative in a galvanic cell but positive in an electrolytic cell?
+U2-Q126,126,2,Electrochemistry,7,H,reaction/equation,reaction/equation,"For a cell reaction involving two electrons, write ΔG° in terms of E°cell and Faraday constant."
+U2-Q127,127,2,Electrochemistry,7,M,explanation/application,explanation/application; definition/concept,How does a salt bridge maintain electrical neutrality in the two half- cells?
+U2-Q128,128,2,Electrochemistry,7,H,reaction/equation,reaction/equation,Use the Nernst equation to predict how Ecell changes when the concentration of the oxidised species increases.
+U2-Q129,129,2,Electrochemistry,7,M,reaction/equation,reaction/equation,What is the reaction quotient Q in the Nernst equation?
+U2-Q130,130,2,Electrochemistry,7,H,quantitative/problem-solving,quantitative/problem-solving; reaction/equation,"For a cell reaction with Q = 100, n = 2 and E°cell = 0.50 V at 298 K, calculate Ecell."
+U2-Q131,131,2,Electrochemistry,7,M,explanation/application,explanation/application; definition/concept,Why is molar conductivity reported per mole of electrolyte rather than per unit volume?
+U2-Q132,132,2,Electrochemistry,7,H,explanation/application,explanation/application; definition/concept,Explain how ionic inter-attraction affects molar conductivity at finite concentration.
+U2-Q133,133,2,Electrochemistry,7,M,definition/concept,definition/concept,What is cell constant and how is it determined?
+U2-Q134,134,2,Electrochemistry,7,H,quantitative/problem-solving,quantitative/problem-solving,A conductivity cell has conductance 0.005 S and cell constant 0.8 cm⁻¹. Calculate conductivity.
+U2-Q135,135,2,Electrochemistry,7,M,explanation/application,explanation/application; definition/concept,Why does a weak electrolyte ionise more on dilution?
+U2-Q136,136,2,Electrochemistry,8,H,definition/concept,definition/concept,Use Kohlrausch’s law to express Λ°m(CH₃COOH) using limiting ionic conductivities of suitable strong electrolytes.
+U2-Q137,137,2,Electrochemistry,8,M,definition/concept,definition/concept,What is electrochemical equivalent?
+U2-Q138,138,2,Electrochemistry,8,H,quantitative/problem-solving,quantitative/problem-solving,Calculate the time needed to deposit 1.08 g Ag using a 1.0 A current. Ag = 108 g mol⁻¹; F = 96500 C mol⁻¹.
+U2-Q139,139,2,Electrochemistry,8,M,definition/concept,definition/concept,What is overvoltage in electrolysis?
+U2-Q140,140,2,Electrochemistry,8,H,explanation/application,explanation/application; definition/concept,Explain why electrolysis of aqueous sodium sulfate can produce gases rather than sodium metal.
+U2-Q141,141,2,Electrochemistry,8,M,explanation/application,explanation/application; definition/concept,Why is lead dioxide used as the positive active material in a lead accumulator?
+U2-Q142,142,2,Electrochemistry,8,H,comparison/classification,comparison/classification,Compare the energy conversion in a hydrogen fuel cell and an electrolytic cell.
+U2-Q143,143,2,Electrochemistry,8,M,explanation/application,explanation/application; definition/concept,Why is the standard electrode potential an intensive property?
+U2-Q144,144,2,Electrochemistry,8,H,explanation/application,explanation/application; definition/concept,A concentration cell is formed using the same metal electrode in 0.01 M and 1.0 M solutions of its ion at 298 K. Explain the origin and direction of the cell potential.
+U3-Q145,145,3,Chemical Kinetics,9,M,reaction/equation,reaction/equation,Define the rate of a chemical reaction.
+U3-Q146,146,3,Chemical Kinetics,9,M,comparison/classification,comparison/classification,Distinguish between average rate and instantaneous rate.
+U3-Q147,147,3,Chemical Kinetics,9,H,reaction/equation,reaction/equation; explanation/application,Explain how the rate of disappearance of a reactant is related to the rate of formation of a product using stoichiometric coefficients.
+U3-Q148,148,3,Chemical Kinetics,9,M,definition/concept,definition/concept,Define rate law and rate constant.
+U3-Q149,149,3,Chemical Kinetics,9,M,reaction/equation,reaction/equation; comparison/classification,What is the order of a reaction?
+U3-Q150,150,3,Chemical Kinetics,9,M,comparison/classification,comparison/classification,Define molecularity and distinguish it from order.
+U3-Q151,151,3,Chemical Kinetics,9,H,reaction/equation,reaction/equation; comparison/classification; explanation/application,"Why can the order of a reaction be zero or fractional, whereas molecularity cannot?"
+U3-Q152,152,3,Chemical Kinetics,9,M,reaction/equation,reaction/equation,What is a pseudo-first-order reaction? Give an example.
+U3-Q153,153,3,Chemical Kinetics,9,H,reaction/equation,reaction/equation; explanation/application,Explain why hydrolysis of an ester in excess water can behave as a pseudo-first-order reaction.
+U3-Q154,154,3,Chemical Kinetics,9,M,reaction/equation,reaction/equation,Write the integrated rate equation for a zero-order reaction.
+U3-Q155,155,3,Chemical Kinetics,9,M,reaction/equation,reaction/equation,Write the integrated rate equation for a first-order reaction.
+U3-Q156,156,3,Chemical Kinetics,9,M,reaction/equation,reaction/equation,Write the half-life expression for a zero-order reaction.
+U3-Q157,157,3,Chemical Kinetics,9,M,reaction/equation,reaction/equation,Write the half-life expression for a first-order reaction.
+U3-Q158,158,3,Chemical Kinetics,9,H,derivation,derivation; reaction/equation,Show that the half-life of a first-order reaction is independent of the initial concentration.
+U3-Q159,159,3,Chemical Kinetics,9,H,quantitative/problem-solving,quantitative/problem-solving; reaction/equation,A first-order reaction is 75% complete in 40 minutes. Calculate its half- life.
+U3-Q160,160,3,Chemical Kinetics,9,H,quantitative/problem-solving,quantitative/problem-solving; reaction/equation,"For a first-order reaction, 20% of the reactant remains after 30 minutes. Calculate the rate constant."
+U3-Q161,161,3,Chemical Kinetics,9,H,quantitative/problem-solving,quantitative/problem-solving; reaction/equation,A zero-order reaction has k = 2.0 × 10⁻³ mol L⁻¹ s⁻¹ and initial concentration 0.10 mol L⁻¹. Calculate the time required for the concentration to fall to 0.04 mol L⁻¹.
+U3-Q162,162,3,Chemical Kinetics,9,M,reaction/equation,reaction/equation,What is the unit of the rate constant for a zero-order reaction?
+U3-Q163,163,3,Chemical Kinetics,9,M,reaction/equation,reaction/equation,What is the unit of the rate constant for a first-order reaction?
+U3-Q164,164,3,Chemical Kinetics,9,H,reaction/equation,reaction/equation; explanation/application,Explain how a plot of concentration versus time can be used to identify a zero-order reaction.
+U3-Q165,165,3,Chemical Kinetics,9,H,reaction/equation,reaction/equation; explanation/application,Explain how a plot of ln[A] versus time can be used to identify a first- order reaction.
+U3-Q166,166,3,Chemical Kinetics,10,M,reaction/equation,reaction/equation,State the Arrhenius equation.
+U3-Q167,167,3,Chemical Kinetics,10,M,definition/concept,definition/concept,Define activation energy.
+U3-Q168,168,3,Chemical Kinetics,10,H,reaction/equation,reaction/equation; explanation/application,Explain how a catalyst changes the rate of a reaction without changing the equilibrium constant.
+U3-Q169,169,3,Chemical Kinetics,10,M,definition/concept,definition/concept,What is collision theory?
+U3-Q170,170,3,Chemical Kinetics,10,H,reaction/equation,reaction/equation; explanation/application,"According to collision theory, why do not all molecular collisions lead to products?"
+U3-Q171,171,3,Chemical Kinetics,10,M,definition/concept,definition/concept,Define effective collision.
+U3-Q172,172,3,Chemical Kinetics,10,H,explanation/application,explanation/application; definition/concept,Explain the role of proper orientation in collision theory.
+U3-Q173,173,3,Chemical Kinetics,10,M,reaction/equation,reaction/equation; explanation/application,How does increasing concentration generally affect reaction rate?
+U3-Q174,174,3,Chemical Kinetics,10,M,reaction/equation,reaction/equation; explanation/application,How does increasing temperature generally affect reaction rate?
+U3-Q175,175,3,Chemical Kinetics,10,H,explanation/application,explanation/application; definition/concept,Explain why a small rise in temperature can cause a large increase in rate constant.
+U3-Q176,176,3,Chemical Kinetics,10,H,quantitative/problem-solving,quantitative/problem-solving; reaction/equation; explanation/application,A reaction rate constant doubles when temperature increases from 300 K to 310 K. Explain how activation energy can be estimated from this information.
+U3-Q177,177,3,Chemical Kinetics,10,M,reaction/equation,reaction/equation,What is the frequency factor in the Arrhenius equation?
+U3-Q178,178,3,Chemical Kinetics,10,H,derivation,derivation; reaction/equation,Derive the two-temperature form of the Arrhenius equation.
+U3-Q179,179,3,Chemical Kinetics,10,M,explanation/application,explanation/application; definition/concept,What is the significance of a plot of ln k against 1/T?
+U3-Q180,180,3,Chemical Kinetics,10,H,quantitative/problem-solving,quantitative/problem-solving; explanation/application,How can activation energy be calculated from the slope of an Arrhenius plot?
+U3-Q181,181,3,Chemical Kinetics,10,M,reaction/equation,reaction/equation; comparison/classification,Distinguish between a slow reaction and a reaction with high activation energy.
+U3-Q182,182,3,Chemical Kinetics,10,H,explanation/application,explanation/application; definition/concept,Explain why the rate law must generally be determined experimentally.
+U3-Q183,183,3,Chemical Kinetics,10,M,reaction/equation,reaction/equation,"For a reaction with rate = k[A]²[B], state the overall order."
+U3-Q184,184,3,Chemical Kinetics,10,H,definition/concept,definition/concept,"For rate = k[A]²[B], predict the factor by which the rate changes if [A] is doubled and [B] is tripled."
+U3-Q185,185,3,Chemical Kinetics,10,M,reaction/equation,reaction/equation,What is the rate-determining step in a multistep reaction?
+U3-Q186,186,3,Chemical Kinetics,10,H,reaction/equation,reaction/equation; explanation/application,"Explain why the molecularity of an elementary step can be used to write its rate law, but the overall reaction equation usually cannot."
+U3-Q187,187,3,Chemical Kinetics,10,M,reaction/equation,reaction/equation; comparison/classification,What is the difference between a reaction mechanism and the overall reaction?
+U3-Q188,188,3,Chemical Kinetics,10,H,quantitative/problem-solving,quantitative/problem-solving; reaction/equation,A first-order reaction has k = 6.93 × 10⁻³ min⁻¹. Calculate its half-life.
+U3-Q189,189,3,Chemical Kinetics,10,M,quantitative/problem-solving,quantitative/problem-solving,What fraction of a first-order reactant remains after two half-lives?
+U3-Q190,190,3,Chemical Kinetics,11,H,quantitative/problem-solving,quantitative/problem-solving; reaction/equation,A zero-order reaction takes 20 minutes for concentration to decrease from 0.10 M to 0.06 M. Calculate its rate constant.
+U3-Q191,191,3,Chemical Kinetics,11,M,reaction/equation,reaction/equation; explanation/application,How does a catalyst affect the activation energy of the forward and reverse reactions?
+U3-Q192,192,3,Chemical Kinetics,11,H,explanation/application,explanation/application; definition/concept,Explain why a catalyst does not alter the position of chemical equilibrium.
+U3-Q193,193,3,Chemical Kinetics,11,M,reaction/equation,reaction/equation; comparison/classification,What is the difference between thermal and photochemical reactions in terms of energy input?
+U3-Q194,194,3,Chemical Kinetics,11,H,reaction/equation,reaction/equation; explanation/application,Explain the limitations of the elementary collision theory model for complex reactions.
+U3-Q195,195,3,Chemical Kinetics,11,M,definition/concept,definition/concept,"For rate = k[A][B]², state the order with respect to each reactant and the overall order."
+U3-Q196,196,3,Chemical Kinetics,11,H,definition/concept,definition/concept,"If rate = k[A]²[B], what happens to the rate when [A] is halved and [B] is doubled?"
+U3-Q197,197,3,Chemical Kinetics,11,M,explanation/application,explanation/application; definition/concept,Why is the rate constant independent of reactant concentration at a fixed temperature?
+U3-Q198,198,3,Chemical Kinetics,11,H,quantitative/problem-solving,quantitative/problem-solving; reaction/equation,A first-order reaction is 90% complete in 50 min. Calculate k.
+U3-Q199,199,3,Chemical Kinetics,11,M,quantitative/problem-solving,quantitative/problem-solving,How much of a first-order reactant remains after three half-lives?
+U3-Q200,200,3,Chemical Kinetics,11,H,reaction/equation,reaction/equation,A zero-order reaction has initial concentration 0.80 M and k = 0.02 M min⁻¹. Find its half-life.
+U3-Q201,201,3,Chemical Kinetics,11,M,definition/concept,definition/concept,What does a negative slope in a first-order integrated-rate plot represent?
+U3-Q202,202,3,Chemical Kinetics,11,H,reaction/equation,reaction/equation; comparison/classification; explanation/application,Explain how half-life data at different initial concentrations can distinguish zero-order and first-order reactions.
+U3-Q203,203,3,Chemical Kinetics,11,M,reaction/equation,reaction/equation; explanation/application,Why does a catalyst provide an alternative reaction pathway?
+U3-Q204,204,3,Chemical Kinetics,11,H,reaction/equation,reaction/equation; explanation/application,"Using the Arrhenius equation, explain how a plot of log k against 1/T differs in slope from a plot of ln k against 1/T."
+U3-Q205,205,3,Chemical Kinetics,11,M,definition/concept,definition/concept,What is the threshold energy in collision theory?
+U3-Q206,206,3,Chemical Kinetics,11,H,reaction/equation,reaction/equation; explanation/application,Explain why a reaction with a large activation energy is especially sensitive to temperature.
+U3-Q207,207,3,Chemical Kinetics,11,M,reaction/equation,reaction/equation; explanation/application,Can a reaction have a negative order with respect to a reactant? Explain briefly.
+U3-Q208,208,3,Chemical Kinetics,12,H,reaction/equation,reaction/equation; explanation/application,Explain how product inhibition or adsorption can lead to unusual experimentally observed reaction orders.
+U3-Q209,209,3,Chemical Kinetics,12,M,comparison/classification,comparison/classification,What is the difference between rate and rate constant?
+U3-Q210,210,3,Chemical Kinetics,12,H,reaction/equation,reaction/equation,"For a reaction that is first order in A and zero order in B, write the rate law and describe the effect of doubling B."
+U3-Q211,211,3,Chemical Kinetics,12,M,reaction/equation,reaction/equation; explanation/application,Why does the unit of the rate constant depend on reaction order?
+U3-Q212,212,3,Chemical Kinetics,12,H,quantitative/problem-solving,quantitative/problem-solving; reaction/equation,A first-order reaction has k = 0.0231 min⁻¹. Calculate the time for 90% completion.
+U3-Q213,213,3,Chemical Kinetics,12,M,definition/concept,definition/concept,What is meant by the effective collision energy?
+U3-Q214,214,3,Chemical Kinetics,12,H,reaction/equation,reaction/equation; comparison/classification; explanation/application,Explain the difference between activation energy and enthalpy change of a reaction.
+U3-Q215,215,3,Chemical Kinetics,12,M,explanation/application,explanation/application; definition/concept,Why can catalysts be selective?
+U3-Q216,216,3,Chemical Kinetics,12,H,quantitative/problem-solving,quantitative/problem-solving; derivation; reaction/equation,"For a first-order reaction, the time required for 99% completion is how many times its half-life? Derive the result."
+U4-Q217,217,4,d- and f-Block Elements,13,M,definition/concept,definition/concept,Define transition elements in terms of partially filled d orbitals.
+U4-Q218,218,4,d- and f-Block Elements,13,M,definition/concept,definition/concept,Write the general electronic configuration of d-block elements.
+U4-Q219,219,4,d- and f-Block Elements,13,H,explanation/application,explanation/application; definition/concept,"Why are Zn, Cd and Hg generally not considered transition elements under the strict definition?"
+U4-Q220,220,4,d- and f-Block Elements,13,M,explanation/application,explanation/application; definition/concept,Why do transition metals show variable oxidation states?
+U4-Q221,221,4,d- and f-Block Elements,13,H,explanation/application,explanation/application; definition/concept,Explain why the +2 oxidation state is common among first-row transition metals.
+U4-Q222,222,4,d- and f-Block Elements,13,M,explanation/application,explanation/application; definition/concept,Why are many transition-metal ions coloured?
+U4-Q223,223,4,d- and f-Block Elements,13,H,explanation/application,explanation/application; definition/concept,Explain d–d transitions and their role in the colour of transition-metal complexes.
+U4-Q224,224,4,d- and f-Block Elements,13,M,explanation/application,explanation/application; definition/concept,Why are d⁰ and d¹⁰ ions often colourless?
+U4-Q225,225,4,d- and f-Block Elements,13,H,explanation/application,explanation/application; definition/concept,Explain why the colour of a transition-metal ion can change with ligand or oxidation state.
+U4-Q226,226,4,d- and f-Block Elements,13,M,explanation/application,explanation/application; definition/concept,Why do transition metals often act as catalysts?
+U4-Q227,227,4,d- and f-Block Elements,13,H,explanation/application,explanation/application; definition/concept,Explain how variable oxidation states and surface adsorption contribute to catalytic activity.
+U4-Q228,228,4,d- and f-Block Elements,13,M,definition/concept,definition/concept,What is the origin of paramagnetism in transition-metal ions?
+U4-Q229,229,4,d- and f-Block Elements,13,H,quantitative/problem-solving,quantitative/problem-solving,Calculate the spin-only magnetic moment for an ion containing three unpaired electrons.
+U4-Q230,230,4,d- and f-Block Elements,13,M,explanation/application,explanation/application; definition/concept,Why do transition metals form alloys readily?
+U4-Q231,231,4,d- and f-Block Elements,13,M,definition/concept,definition/concept,What are interstitial compounds? Give two characteristic properties.
+U4-Q232,232,4,d- and f-Block Elements,13,H,explanation/application,explanation/application; definition/concept,Explain why interstitial compounds are often hard and have high melting points.
+U4-Q233,233,4,d- and f-Block Elements,13,M,definition/concept,definition/concept,Describe the general trend in atomic radii across the first transition series.
+U4-Q234,234,4,d- and f-Block Elements,13,H,explanation/application,explanation/application; definition/concept,Why is the variation in ionisation enthalpy across the first transition series irregular?
+U4-Q235,235,4,d- and f-Block Elements,13,M,definition/concept,definition/concept,What is lanthanoid contraction?
+U4-Q236,236,4,d- and f-Block Elements,13,H,explanation/application,explanation/application; definition/concept,Explain the cause of lanthanoid contraction in terms of shielding by 4f electrons.
+U4-Q237,237,4,d- and f-Block Elements,13,M,definition/concept,definition/concept,State two consequences of lanthanoid contraction.
+U4-Q238,238,4,d- and f-Block Elements,14,H,explanation/application,explanation/application; definition/concept,Explain the similarity in radii of zirconium and hafnium.
+U4-Q239,239,4,d- and f-Block Elements,14,M,definition/concept,definition/concept,Write the general electronic configuration of lanthanoids.
+U4-Q240,240,4,d- and f-Block Elements,14,M,explanation/application,explanation/application; definition/concept,Why is +3 the most common oxidation state of lanthanoids?
+U4-Q241,241,4,d- and f-Block Elements,14,H,explanation/application,explanation/application; definition/concept,Explain why some lanthanoids also exhibit +2 or +4 oxidation states.
+U4-Q242,242,4,d- and f-Block Elements,14,M,definition/concept,definition/concept,Write the general electronic configuration of actinoids.
+U4-Q243,243,4,d- and f-Block Elements,14,H,explanation/application,explanation/application; definition/concept,Why do actinoids show a wider range of oxidation states than lanthanoids?
+U4-Q244,244,4,d- and f-Block Elements,14,M,definition/concept,definition/concept,Give two differences between lanthanoids and actinoids.
+U4-Q245,245,4,d- and f-Block Elements,14,H,explanation/application,explanation/application; definition/concept,Explain why most actinoids are radioactive.
+U4-Q246,246,4,d- and f-Block Elements,14,M,definition/concept,definition/concept,What is the colour of potassium dichromate solution and which chromium oxidation state is present?
+U4-Q247,247,4,d- and f-Block Elements,14,M,definition/concept,definition/concept,What is the colour of permanganate ion in aqueous solution?
+U4-Q248,248,4,d- and f-Block Elements,14,H,reaction/equation,reaction/equation,Write the balanced ionic equation for the reduction of dichromate ion to Cr³⁺ in acidic medium.
+U4-Q249,249,4,d- and f-Block Elements,14,H,reaction/equation,reaction/equation,Write the balanced ionic equation for the reduction of permanganate ion to Mn²⁺ in acidic medium.
+U4-Q250,250,4,d- and f-Block Elements,14,M,definition/concept,definition/concept,Describe the oxidising action of acidified potassium permanganate.
+U4-Q251,251,4,d- and f-Block Elements,14,H,reaction/equation,reaction/equation; explanation/application,Explain why the products of permanganate reduction depend on the pH of the medium.
+U4-Q252,252,4,d- and f-Block Elements,14,M,definition/concept,definition/concept,State the oxidation state of chromium in K₂Cr₂O₇.
+U4-Q253,253,4,d- and f-Block Elements,14,M,definition/concept,definition/concept,State the oxidation state of manganese in KMnO₄.
+U4-Q254,254,4,d- and f-Block Elements,14,H,quantitative/problem-solving,quantitative/problem-solving; comparison/classification,Calculate the oxidation state of manganese in MnO₄²⁻ and compare it with MnO₄⁻.
+U4-Q255,255,4,d- and f-Block Elements,14,M,explanation/application,explanation/application; definition/concept,Why is Cr²⁺ a reducing agent while Mn³⁺ can act as an oxidising agent?
+U4-Q256,256,4,d- and f-Block Elements,14,H,explanation/application,explanation/application; definition/concept,Use electronic configurations to explain the relative stability of Cr³⁺ and Mn²⁺.
+U4-Q257,257,4,d- and f-Block Elements,14,M,explanation/application,explanation/application; definition/concept,Why do transition metals have high enthalpies of atomisation?
+U4-Q258,258,4,d- and f-Block Elements,14,H,explanation/application,explanation/application; definition/concept,Explain the trend in melting points across the first-row transition series and why it is not perfectly regular.
+U4-Q259,259,4,d- and f-Block Elements,14,M,definition/concept,definition/concept,What is disproportionation? Give a transition-metal example.
+U4-Q260,260,4,d- and f-Block Elements,14,H,explanation/application,explanation/application; definition/concept,Explain why Cu⁺ tends to disproportionate in aqueous solution under standard conditions.
+U4-Q261,261,4,d- and f-Block Elements,14,M,explanation/application,explanation/application; definition/concept,Why are transition-metal compounds frequently used as pigments?
+U4-Q262,262,4,d- and f-Block Elements,15,H,comparison/classification,comparison/classification,Compare the magnetic behaviour expected for high-spin d⁵ and low-spin d⁶ complexes.
+U4-Q263,263,4,d- and f-Block Elements,15,M,comparison/classification,comparison/classification,What is the difference between lanthanoid and actinoid contraction?
+U4-Q264,264,4,d- and f-Block Elements,15,H,comparison/classification,comparison/classification; explanation/application,Explain why separation of lanthanoids is difficult and how contraction helps distinguish their properties.
+U4-Q265,265,4,d- and f-Block Elements,15,M,explanation/application,explanation/application; definition/concept,Why is the +6 oxidation state accessible to chromium in chromate and dichromate ions?
+U4-Q266,266,4,d- and f-Block Elements,15,H,explanation/application,explanation/application; definition/concept,Explain the interconversion of chromate and dichromate ions with change in pH.
+U4-Q267,267,4,d- and f-Block Elements,15,M,explanation/application,explanation/application; definition/concept,Write the electronic configuration of Cr and explain its exceptional configuration.
+U4-Q268,268,4,d- and f-Block Elements,15,H,explanation/application,explanation/application; definition/concept,Explain the exceptional electronic configurations of Cr and Cu in terms of subshell stability.
+U4-Q269,269,4,d- and f-Block Elements,15,M,explanation/application,explanation/application; definition/concept,Why is the third ionisation enthalpy of manganese relatively high after formation of Mn²⁺?
+U4-Q270,270,4,d- and f-Block Elements,15,H,comparison/classification,comparison/classification,Compare the stability of Fe²⁺ and Fe³⁺ using electronic configurations.
+U4-Q271,271,4,d- and f-Block Elements,15,M,explanation/application,explanation/application; definition/concept,What is the common oxidation state of scandium and why?
+U4-Q272,272,4,d- and f-Block Elements,15,H,explanation/application,explanation/application; definition/concept,Explain why the highest oxidation states are more common for early transition elements than for later ones.
+U4-Q273,273,4,d- and f-Block Elements,15,M,explanation/application,explanation/application; definition/concept,Why do transition-metal ions form complex ions readily?
+U4-Q274,274,4,d- and f-Block Elements,15,H,explanation/application,explanation/application; definition/concept,Explain the relationship between d-electron configuration and the magnetic behaviour of transition-metal ions.
+U4-Q275,275,4,d- and f-Block Elements,15,M,explanation/application,explanation/application; definition/concept,Why is Cu²⁺ coloured but Zn²⁺ colourless?
+U4-Q276,276,4,d- and f-Block Elements,15,H,explanation/application,explanation/application; definition/concept,Explain why d–d transition energies are affected by ligand identity.
+U4-Q277,277,4,d- and f-Block Elements,15,M,definition/concept,definition/concept,What is the effect of lanthanoid contraction on basicity of lanthanoid hydroxides?
+U4-Q278,278,4,d- and f-Block Elements,15,H,explanation/application,explanation/application; definition/concept,Explain the trend in basic strength of lanthanoid hydroxides across the series.
+U4-Q279,279,4,d- and f-Block Elements,15,M,explanation/application,explanation/application; definition/concept,Why are actinoids more prone to complex formation than lanthanoids?
+U4-Q280,280,4,d- and f-Block Elements,15,H,explanation/application,explanation/application; definition/concept,"Explain why actinoid chemistry is more complicated due to 5f, 6d and 7s orbital energies."
+U4-Q281,281,4,d- and f-Block Elements,16,M,explanation/application,explanation/application; definition/concept,What is the role of sulfuric acid in preparing potassium dichromate from chromite ore?
+U4-Q282,282,4,d- and f-Block Elements,16,H,reaction/equation,reaction/equation,Balance the redox reaction between MnO₄⁻ and Fe²⁺ in acidic medium.
+U4-Q283,283,4,d- and f-Block Elements,16,M,explanation/application,explanation/application; definition/concept,Why is permanganate a stronger oxidising agent in acidic medium than in neutral medium?
+U4-Q284,284,4,d- and f-Block Elements,16,H,explanation/application,explanation/application; definition/concept,Explain the use of K₂Cr₂O₇ as a primary standard in redox titrations.
+U4-Q285,285,4,d- and f-Block Elements,16,M,explanation/application,explanation/application; definition/concept,Why are transition metals usually good conductors of heat and electricity?
+U4-Q286,286,4,d- and f-Block Elements,16,H,explanation/application,explanation/application; definition/concept,Explain why the enthalpies of atomisation of Zn and Cd are comparatively lower than those of many transition metals.
+U4-Q287,287,4,d- and f-Block Elements,16,M,comparison/classification,comparison/classification,What is the difference between a transition metal and an inner-transition metal?
+U4-Q288,288,4,d- and f-Block Elements,16,H,explanation/application,explanation/application; definition/concept,Explain why the standard electrode potential of a transition-metal couple cannot be predicted from electronic configuration alone.
+U5-Q289,289,5,Coordination Compounds,17,M,definition/concept,definition/concept,Define a coordination compound and give one example.
+U5-Q290,290,5,Coordination Compounds,17,M,definition/concept,definition/concept,What is a ligand? Classify ligands on the basis of denticity.
+U5-Q291,291,5,Coordination Compounds,17,M,definition/concept,definition/concept,Define coordination number with an example.
+U5-Q292,292,5,Coordination Compounds,17,H,quantitative/problem-solving,quantitative/problem-solving,Determine the oxidation state of the central metal in [Co(NH₃)₅Cl]Cl₂.
+U5-Q293,293,5,Coordination Compounds,17,M,comparison/classification,comparison/classification,Distinguish between a double salt and a coordination compound.
+U5-Q294,294,5,Coordination Compounds,17,M,definition/concept,definition/concept,State Werner’s primary and secondary valencies.
+U5-Q295,295,5,Coordination Compounds,17,H,explanation/application,explanation/application; definition/concept,Explain how Werner’s theory accounts for the structures of CoCl₃·6NH₃ and CoCl₃·5NH₃.
+U5-Q296,296,5,Coordination Compounds,17,M,nomenclature/formula,nomenclature/formula,Write the IUPAC name of [Co(NH₃)₆]Cl₃.
+U5-Q297,297,5,Coordination Compounds,17,M,nomenclature/formula,nomenclature/formula,Write the IUPAC name of K₄[Fe(CN)₆].
+U5-Q298,298,5,Coordination Compounds,17,H,nomenclature/formula,nomenclature/formula,Write the formula of pentaamminechloridocobalt(III) chloride.
+U5-Q299,299,5,Coordination Compounds,17,M,definition/concept,definition/concept,What is a chelating ligand? Give an example.
+U5-Q300,300,5,Coordination Compounds,17,H,explanation/application,explanation/application; definition/concept,Explain why chelate complexes are often more stable than analogous complexes with monodentate ligands.
+U5-Q301,301,5,Coordination Compounds,17,M,comparison/classification,comparison/classification,What is the difference between homoleptic and heteroleptic complexes?
+U5-Q302,302,5,Coordination Compounds,17,M,explanation/application,explanation/application; definition/concept,Explain the bonding in coordination compounds according to valence bond theory.
+U5-Q303,303,5,Coordination Compounds,17,H,definition/concept,definition/concept,Predict the hybridisation and geometry of [Ni(CN)₄]²⁻ using VBT.
+U5-Q304,304,5,Coordination Compounds,17,H,definition/concept,definition/concept,Predict the hybridisation and magnetic behaviour of [NiCl₄]²⁻ using VBT.
+U5-Q305,305,5,Coordination Compounds,17,M,definition/concept,definition/concept,What is crystal field splitting?
+U5-Q306,306,5,Coordination Compounds,17,M,comparison/classification,comparison/classification,Distinguish between strong-field and weak-field ligands.
+U5-Q307,307,5,Coordination Compounds,17,H,explanation/application,explanation/application; definition/concept,Explain why [Fe(CN)₆]⁴⁻ is low spin while [FeF₆]⁴⁻ is generally high spin.
+U5-Q308,308,5,Coordination Compounds,17,M,definition/concept,definition/concept,Draw or describe the splitting of d orbitals in an octahedral field.
+U5-Q309,309,5,Coordination Compounds,17,M,definition/concept,definition/concept,Draw or describe the splitting of d orbitals in a tetrahedral field.
+U5-Q310,310,5,Coordination Compounds,17,H,explanation/application,explanation/application; definition/concept,Why is tetrahedral splitting smaller than octahedral splitting for the same metal and ligand?
+U5-Q311,311,5,Coordination Compounds,17,M,definition/concept,definition/concept,What is crystal field stabilisation energy?
+U5-Q312,312,5,Coordination Compounds,17,H,quantitative/problem-solving,quantitative/problem-solving,"Calculate the CFSE for an octahedral d³ ion, ignoring pairing energy."
+U5-Q313,313,5,Coordination Compounds,17,M,explanation/application,explanation/application; definition/concept,Why are many coordination compounds coloured?
+U5-Q314,314,5,Coordination Compounds,18,H,explanation/application,explanation/application; definition/concept,Explain how ligand-field splitting determines the wavelength of light absorbed by a complex.
+U5-Q315,315,5,Coordination Compounds,18,M,comparison/classification,comparison/classification; explanation/application,How can magnetic measurements help distinguish high-spin and low- spin complexes?
+U5-Q316,316,5,Coordination Compounds,18,H,quantitative/problem-solving,quantitative/problem-solving,Calculate the spin-only magnetic moment of a complex with four unpaired electrons.
+U5-Q317,317,5,Coordination Compounds,18,M,definition/concept,definition/concept,What is geometrical isomerism in coordination compounds?
+U5-Q318,318,5,Coordination Compounds,18,M,definition/concept,definition/concept,What is optical isomerism in coordination compounds?
+U5-Q319,319,5,Coordination Compounds,18,H,explanation/application,explanation/application; definition/concept,Explain cis–trans isomerism in square-planar complexes of type [MA₂B₂].
+U5-Q320,320,5,Coordination Compounds,18,H,quantitative/problem-solving,quantitative/problem-solving,How many geometrical isomers are possible for an octahedral complex of type [MA₄B₂]?
+U5-Q321,321,5,Coordination Compounds,18,M,definition/concept,definition/concept,Give an example of a coordination compound showing linkage isomerism.
+U5-Q322,322,5,Coordination Compounds,18,M,definition/concept,definition/concept,What is ionisation isomerism?
+U5-Q323,323,5,Coordination Compounds,18,H,comparison/classification,comparison/classification,"Distinguish between linkage, ionisation and hydrate isomerism with examples."
+U5-Q324,324,5,Coordination Compounds,18,M,explanation/application,explanation/application; definition/concept,Explain the role of coordination compounds in qualitative analysis.
+U5-Q325,325,5,Coordination Compounds,18,M,definition/concept,definition/concept,How is complex formation used in the extraction of gold or silver?
+U5-Q326,326,5,Coordination Compounds,18,M,definition/concept,definition/concept,State the role of haemoglobin as a coordination compound.
+U5-Q327,327,5,Coordination Compounds,18,H,explanation/application,explanation/application; definition/concept,Explain the role of chlorophyll and vitamin B₁₂ in biological systems in terms of their central metal ions.
+U5-Q328,328,5,Coordination Compounds,18,M,explanation/application,explanation/application; definition/concept,Why does EDTA form stable complexes with many metal ions?
+U5-Q329,329,5,Coordination Compounds,18,H,comparison/classification,comparison/classification,Compare inner-orbital and outer-orbital octahedral complexes in VBT.
+U5-Q330,330,5,Coordination Compounds,18,M,definition/concept,definition/concept,What is the spectrochemical series?
+U5-Q331,331,5,Coordination Compounds,18,H,explanation/application,explanation/application; definition/concept,Explain why pairing may occur in a strong ligand field but not in a weak ligand field.
+U5-Q332,332,5,Coordination Compounds,18,M,quantitative/problem-solving,quantitative/problem-solving,Determine the oxidation state and coordination number of Fe in [Fe(CN)₆]³⁻.
+U5-Q333,333,5,Coordination Compounds,18,H,quantitative/problem-solving,quantitative/problem-solving,Predict the number of unpaired electrons in [Mn(CN)₆]³⁻ using crystal field theory.
+U5-Q334,334,5,Coordination Compounds,18,M,definition/concept,definition/concept,What is the effective atomic number rule? State one limitation.
+U5-Q335,335,5,Coordination Compounds,18,H,explanation/application,explanation/application; definition/concept,Explain why the EAN rule does not reliably predict the stability of every coordination compound.
+U5-Q336,336,5,Coordination Compounds,19,M,comparison/classification,comparison/classification,Distinguish between a monodentate and a bidentate ligand.
+U5-Q337,337,5,Coordination Compounds,19,H,explanation/application,explanation/application; definition/concept,Explain why [Pt(NH₃)₂Cl₂] has cis and trans forms and state the relevance of the cis form.
+U5-Q338,338,5,Coordination Compounds,19,M,definition/concept,definition/concept,Find the oxidation state of Co and coordination number in [Co(en)₂Cl₂]⁺.
+U5-Q339,339,5,Coordination Compounds,19,H,nomenclature/formula,nomenclature/formula,Write the IUPAC name of [Cr(H₂O)₄Cl₂]Cl.
+U5-Q340,340,5,Coordination Compounds,19,M,definition/concept,definition/concept,"What is the denticity of ethane-1,2-diamine (en)?"
+U5-Q341,341,5,Coordination Compounds,19,H,definition/concept,definition/concept,Predict the geometry and hybridisation of [Fe(CN)₆]³⁻ using the strong- field assumption.
+U5-Q342,342,5,Coordination Compounds,19,M,explanation/application,explanation/application; definition/concept,Why is [Zn(NH₃)₄]²⁺ generally diamagnetic?
+U5-Q343,343,5,Coordination Compounds,19,H,comparison/classification,comparison/classification,Compare the magnetic moments expected for high-spin and low-spin d⁶ octahedral complexes.
+U5-Q344,344,5,Coordination Compounds,19,M,comparison/classification,comparison/classification,What is the difference between crystal-field splitting energy and pairing energy?
+U5-Q345,345,5,Coordination Compounds,19,H,comparison/classification,comparison/classification,"For an octahedral d⁴ ion, compare high-spin and low-spin electron arrangements."
+U5-Q346,346,5,Coordination Compounds,19,M,definition/concept,definition/concept,Give an example of a complex that exhibits optical isomerism.
+U5-Q347,347,5,Coordination Compounds,19,H,explanation/application,explanation/application; definition/concept,Explain why cis-[M(en)₂Cl₂]⁺ can be optically active while its trans form may not be.
+U5-Q348,348,5,Coordination Compounds,19,M,definition/concept,definition/concept,What is coordination sphere?
+U5-Q349,349,5,Coordination Compounds,19,H,definition/concept,definition/concept,"Determine the number of ions produced when [Co(NH₃)₅Cl]Cl₂ dissolves completely in water, ignoring complex dissociation."
+U5-Q350,350,5,Coordination Compounds,19,M,explanation/application,explanation/application; definition/concept,Why do coordination compounds often have specific geometries?
+U5-Q351,351,5,Coordination Compounds,19,H,explanation/application,explanation/application; definition/concept,Explain the limitations of VBT in explaining colour and spectra of coordination compounds.
+U5-Q352,352,5,Coordination Compounds,19,M,definition/concept,definition/concept,What is the chelate effect?
+U5-Q353,353,5,Coordination Compounds,19,H,explanation/application,explanation/application; definition/concept,Explain how coordination compounds can mask interfering ions in qualitative analysis.
+U5-Q354,354,5,Coordination Compounds,19,M,explanation/application,explanation/application; definition/concept,Why is [Ag(NH₃)₂]⁺ important in qualitative analysis?
+U5-Q355,355,5,Coordination Compounds,19,H,explanation/application,explanation/application; definition/concept,Explain how complex formation can alter the solubility of a sparingly soluble salt.
+U5-Q356,356,5,Coordination Compounds,19,M,nomenclature/formula,nomenclature/formula,Write the formula of tetraamminecopper(II) sulfate.
+U5-Q357,357,5,Coordination Compounds,20,H,comparison/classification,comparison/classification,Distinguish between fac and mer isomers of an octahedral [MA₃B₃] complex.
+U5-Q358,358,5,Coordination Compounds,20,H,quantitative/problem-solving,quantitative/problem-solving; comparison/classification,"For an octahedral d⁵ metal ion, compare the number of unpaired electrons in high-spin and low-spin cases."
+U6-Q359,359,6,Haloalkanes and Haloarenes,21,M,definition/concept,definition/concept,"Define haloalkanes and haloarenes, giving one example of each."
+U6-Q360,360,6,Haloalkanes and Haloarenes,21,M,nomenclature/formula,nomenclature/formula,Write the IUPAC name of CH₃CHBrCH₂CH₃.
+U6-Q361,361,6,Haloalkanes and Haloarenes,21,M,explanation/application,explanation/application; definition/concept,Explain why the carbon–halogen bond is polar.
+U6-Q362,362,6,Haloalkanes and Haloarenes,21,H,comparison/classification,comparison/classification,"Compare the C–F, C–Cl, C–Br and C–I bond strengths and relate them to reactivity."
+U6-Q363,363,6,Haloalkanes and Haloarenes,21,M,definition/concept,definition/concept,What is nucleophilic substitution?
+U6-Q364,364,6,Haloalkanes and Haloarenes,21,M,reaction/equation,reaction/equation; comparison/classification,Distinguish between SN1 and SN2 reactions.
+U6-Q365,365,6,Haloalkanes and Haloarenes,21,H,explanation/application,explanation/application; definition/concept,Explain why tertiary haloalkanes generally favour SN1 while primary haloalkanes generally favour SN2 under suitable conditions.
+U6-Q366,366,6,Haloalkanes and Haloarenes,21,M,reaction/equation,reaction/equation,What is racemisation in a nucleophilic substitution reaction?
+U6-Q367,367,6,Haloalkanes and Haloarenes,21,H,reaction/equation,reaction/equation; explanation/application,Explain the stereochemical outcome of an SN2 reaction at a chiral carbon.
+U6-Q368,368,6,Haloalkanes and Haloarenes,21,M,definition/concept,definition/concept,What is optical activity?
+U6-Q369,369,6,Haloalkanes and Haloarenes,21,H,reaction/equation,reaction/equation; explanation/application,Why can an SN1 reaction at a chiral centre lead to racemisation?
+U6-Q370,370,6,Haloalkanes and Haloarenes,21,M,comparison/classification,comparison/classification,"Arrange primary, secondary and tertiary haloalkanes in order of SN1 reactivity, with justification."
+U6-Q371,371,6,Haloalkanes and Haloarenes,21,H,reaction/equation,reaction/equation; explanation/application,Predict the major product when 2-bromobutane reacts with aqueous KOH and explain the reaction type.
+U6-Q372,372,6,Haloalkanes and Haloarenes,21,M,definition/concept,definition/concept,What is dehydrohalogenation?
+U6-Q373,373,6,Haloalkanes and Haloarenes,21,H,reaction/equation,reaction/equation; comparison/classification,Compare substitution and elimination products when a haloalkane reacts with aqueous KOH versus alcoholic KOH.
+U6-Q374,374,6,Haloalkanes and Haloarenes,21,M,explanation/application,explanation/application; definition/concept,Why are haloarenes less reactive than haloalkanes towards nucleophilic substitution?
+U6-Q375,375,6,Haloalkanes and Haloarenes,21,H,explanation/application,explanation/application; definition/concept,Explain the partial double-bond character of the C–Cl bond in chlorobenzene using resonance.
+U6-Q376,376,6,Haloalkanes and Haloarenes,21,M,explanation/application,explanation/application; definition/concept,Why does chlorobenzene direct electrophilic substitution to ortho and para positions?
+U6-Q377,377,6,Haloalkanes and Haloarenes,21,H,explanation/application,explanation/application; definition/concept,Explain why halogens are deactivating but ortho/para-directing in electrophilic aromatic substitution.
+U6-Q378,378,6,Haloalkanes and Haloarenes,21,M,reaction/equation,reaction/equation,Write the products of nitration of chlorobenzene.
+U6-Q379,379,6,Haloalkanes and Haloarenes,21,M,reaction/equation,reaction/equation,What is the Wurtz reaction?
+U6-Q380,380,6,Haloalkanes and Haloarenes,22,M,reaction/equation,reaction/equation,What is the Fittig reaction?
+U6-Q381,381,6,Haloalkanes and Haloarenes,22,M,reaction/equation,reaction/equation,What is the Wurtz–Fittig reaction?
+U6-Q382,382,6,Haloalkanes and Haloarenes,22,H,reaction/equation,reaction/equation,Predict the products when bromobenzene reacts with sodium in dry ether in the presence of methyl bromide.
+U6-Q383,383,6,Haloalkanes and Haloarenes,22,M,reaction/equation,reaction/equation; explanation/application,How can a haloalkane be converted into an alcohol?
+U6-Q384,384,6,Haloalkanes and Haloarenes,22,H,reaction/equation,reaction/equation,Suggest a route to convert ethanol into bromoethane and state a suitable reagent.
+U6-Q385,385,6,Haloalkanes and Haloarenes,22,M,comparison/classification,comparison/classification,What is the difference between allylic and vinylic halides?
+U6-Q386,386,6,Haloalkanes and Haloarenes,22,H,explanation/application,explanation/application; definition/concept,Explain why vinyl chloride is less reactive than ethyl chloride towards nucleophilic substitution.
+U6-Q387,387,6,Haloalkanes and Haloarenes,22,M,definition/concept,definition/concept,State one use and one environmental concern associated with dichloromethane.
+U6-Q388,388,6,Haloalkanes and Haloarenes,22,M,definition/concept,definition/concept,State one use and one health concern associated with chloroform.
+U6-Q389,389,6,Haloalkanes and Haloarenes,22,M,explanation/application,explanation/application; definition/concept,Why is carbon tetrachloride environmentally problematic?
+U6-Q390,390,6,Haloalkanes and Haloarenes,22,M,definition/concept,definition/concept,What is iodoform and what is one historical use of it?
+U6-Q391,391,6,Haloalkanes and Haloarenes,22,M,explanation/application,explanation/application; definition/concept,What are freons and why have many been phased out?
+U6-Q392,392,6,Haloalkanes and Haloarenes,22,M,explanation/application,explanation/application; definition/concept,Why is DDT considered an environmental pollutant?
+U6-Q393,393,6,Haloalkanes and Haloarenes,22,H,comparison/classification,comparison/classification,Compare the environmental persistence and bioaccumulation concerns of DDT and many modern pesticides.
+U6-Q394,394,6,Haloalkanes and Haloarenes,22,M,explanation/application,explanation/application; definition/concept,How does the nature of the halogen affect the boiling point of haloalkanes?
+U6-Q395,395,6,Haloalkanes and Haloarenes,22,H,explanation/application,explanation/application; definition/concept,Explain why branching generally lowers the boiling point of isomeric haloalkanes.
+U6-Q396,396,6,Haloalkanes and Haloarenes,22,M,explanation/application,explanation/application; definition/concept,Why are haloalkanes only slightly soluble in water?
+U6-Q397,397,6,Haloalkanes and Haloarenes,22,H,explanation/application,explanation/application; definition/concept,Explain why haloalkanes can be soluble in organic solvents despite having a polar C–X bond.
+U6-Q398,398,6,Haloalkanes and Haloarenes,22,M,definition/concept,definition/concept,What is a Grignard reagent?
+U6-Q399,399,6,Haloalkanes and Haloarenes,22,H,reaction/equation,reaction/equation; explanation/application,Why must Grignard reagents be prepared and used under anhydrous conditions?
+U6-Q400,400,6,Haloalkanes and Haloarenes,22,M,reaction/equation,reaction/equation,Write the reaction of bromoethane with magnesium in dry ether.
+U6-Q401,401,6,Haloalkanes and Haloarenes,22,H,reaction/equation,reaction/equation,Predict the product when a Grignard reagent reacts with carbon dioxide followed by acidic hydrolysis.
+U6-Q402,402,6,Haloalkanes and Haloarenes,22,M,reaction/equation,reaction/equation; explanation/application,How can the presence of halogen in an organic compound be tested after suitable preparation of the sample?
+U6-Q403,403,6,Haloalkanes and Haloarenes,23,H,explanation/application,explanation/application; definition/concept,Explain why direct treatment of an organic halide with aqueous silver nitrate may not give a reliable result in every case.
+U6-Q404,404,6,Haloalkanes and Haloarenes,23,M,comparison/classification,comparison/classification,Distinguish between nucleophiles and bases.
+U6-Q405,405,6,Haloalkanes and Haloarenes,23,H,reaction/equation,reaction/equation; explanation/application,Explain how solvent polarity and solvent proticity can affect SN1 and SN2 reactions.
+U6-Q406,406,6,Haloalkanes and Haloarenes,23,M,explanation/application,explanation/application; definition/concept,What is the role of a leaving group in nucleophilic substitution?
+U6-Q407,407,6,Haloalkanes and Haloarenes,23,H,comparison/classification,comparison/classification,Arrange typical halide leaving groups in order of leaving-group ability and justify the trend.
+U6-Q408,408,6,Haloalkanes and Haloarenes,23,M,nomenclature/formula,nomenclature/formula,Write the IUPAC name of CH₃CH₂CHClCH₃.
+U6-Q409,409,6,Haloalkanes and Haloarenes,23,H,reaction/equation,reaction/equation; explanation/application,Predict the major product of 2-bromopropane with alcoholic KOH and explain the mechanism.
+U6-Q410,410,6,Haloalkanes and Haloarenes,23,M,explanation/application,explanation/application; definition/concept,Why does tertiary butyl chloride react rapidly by SN1 in a polar protic solvent?
+U6-Q411,411,6,Haloalkanes and Haloarenes,23,H,reaction/equation,reaction/equation; explanation/application,Explain the energy profile of SN1 and SN2 mechanisms.
+U6-Q412,412,6,Haloalkanes and Haloarenes,23,M,definition/concept,definition/concept,What is inversion of configuration?
+U6-Q413,413,6,Haloalkanes and Haloarenes,23,H,definition/concept,definition/concept,A chiral haloalkane undergoes substitution with a strong nucleophile in a polar aprotic solvent. Predict the likely stereochemical outcome.
+U6-Q414,414,6,Haloalkanes and Haloarenes,23,M,explanation/application,explanation/application; definition/concept,Why is chlorobenzene resistant to hydrolysis under ordinary conditions?
+U6-Q415,415,6,Haloalkanes and Haloarenes,23,H,explanation/application,explanation/application; definition/concept,Explain how electron-withdrawing groups at ortho and para positions facilitate nucleophilic substitution in haloarenes.
+U6-Q416,416,6,Haloalkanes and Haloarenes,23,M,reaction/equation,reaction/equation,What is the product of hydrolysis of bromoethane with aqueous KOH?
+U6-Q417,417,6,Haloalkanes and Haloarenes,23,H,reaction/equation,reaction/equation,"Give a sequence to convert propene into 1-bromopropane, noting the required conditions."
+U6-Q418,418,6,Haloalkanes and Haloarenes,23,M,reaction/equation,reaction/equation; explanation/application,What is the role of dry ether in the Wurtz reaction?
+U6-Q419,419,6,Haloalkanes and Haloarenes,23,H,reaction/equation,reaction/equation; explanation/application,Why can Wurtz reactions of two different haloalkanes give a mixture of alkanes?
+U6-Q420,420,6,Haloalkanes and Haloarenes,23,M,explanation/application,explanation/application; definition/concept,Why are CFCs harmful to stratospheric ozone?
+U6-Q421,421,6,Haloalkanes and Haloarenes,23,H,reaction/equation,reaction/equation; explanation/application,"Explain the chain mechanism by which chlorine radicals destroy ozone, at a conceptual level."
+U6-Q422,422,6,Haloalkanes and Haloarenes,23,M,comparison/classification,comparison/classification,What is the difference between a geminal and a vicinal dihalide?
+U6-Q423,423,6,Haloalkanes and Haloarenes,23,H,comparison/classification,comparison/classification,"Compare the reactivity of allyl chloride, ethyl chloride and vinyl chloride toward nucleophilic substitution."
+U6-Q424,424,6,Haloalkanes and Haloarenes,24,M,explanation/application,explanation/application; definition/concept,Why are organohalogen compounds often denser than corresponding hydrocarbons?
+U6-Q425,425,6,Haloalkanes and Haloarenes,24,H,reaction/equation,reaction/equation; explanation/application,Explain how a chiral centre can be formed during a substitution reaction and how its configuration is assigned.
+U6-Q426,426,6,Haloalkanes and Haloarenes,24,M,reaction/equation,reaction/equation,What is the major organic product when bromoethane reacts with potassium cyanide?
+U6-Q427,427,6,Haloalkanes and Haloarenes,24,H,reaction/equation,reaction/equation; comparison/classification,Compare the products obtained when bromoethane reacts with KCN and AgCN.
+U6-Q428,428,6,Haloalkanes and Haloarenes,24,H,reaction/equation,reaction/equation; explanation/application,Explain why the rate of an SN2 reaction depends on both haloalkane and nucleophile concentrations.
+U7-Q429,429,7,"Alcohols, Phenols and Ethers",25,M,definition/concept,definition/concept,"Define alcohols, phenols and ethers with one example of each."
+U7-Q430,430,7,"Alcohols, Phenols and Ethers",25,M,nomenclature/formula,nomenclature/formula,Write the IUPAC name of CH₃CH₂CH(OH)CH₃.
+U7-Q431,431,7,"Alcohols, Phenols and Ethers",25,M,comparison/classification,comparison/classification,"Distinguish between primary, secondary and tertiary alcohols."
+U7-Q432,432,7,"Alcohols, Phenols and Ethers",25,M,explanation/application,explanation/application; definition/concept,Why do alcohols have higher boiling points than comparable alkanes?
+U7-Q433,433,7,"Alcohols, Phenols and Ethers",25,H,explanation/application,explanation/application; definition/concept,Explain how hydrogen bonding affects the boiling points and water solubilities of alcohols.
+U7-Q434,434,7,"Alcohols, Phenols and Ethers",25,M,definition/concept,definition/concept,Describe one method for preparing ethanol from ethene.
+U7-Q435,435,7,"Alcohols, Phenols and Ethers",25,M,reaction/equation,reaction/equation; explanation/application,How can a haloalkane be converted into an alcohol?
+U7-Q436,436,7,"Alcohols, Phenols and Ethers",25,H,reaction/equation,reaction/equation; explanation/application,Explain the preparation of alcohols by reduction of aldehydes and ketones.
+U7-Q437,437,7,"Alcohols, Phenols and Ethers",25,M,reaction/equation,reaction/equation,What is the oxidation product of a primary alcohol under controlled oxidation?
+U7-Q438,438,7,"Alcohols, Phenols and Ethers",25,H,reaction/equation,reaction/equation; comparison/classification,"Compare the oxidation products of primary, secondary and tertiary alcohols under common conditions."
+U7-Q439,439,7,"Alcohols, Phenols and Ethers",25,M,comparison/classification,comparison/classification,What is the Lucas test? What does it help distinguish?
+U7-Q440,440,7,"Alcohols, Phenols and Ethers",25,H,reaction/equation,reaction/equation; explanation/application,"Explain the relative rates of reaction of primary, secondary and tertiary alcohols with Lucas reagent."
+U7-Q441,441,7,"Alcohols, Phenols and Ethers",25,M,definition/concept,definition/concept,What happens when ethanol reacts with sodium metal?
+U7-Q442,442,7,"Alcohols, Phenols and Ethers",25,M,definition/concept,definition/concept,What is dehydration of an alcohol?
+U7-Q443,443,7,"Alcohols, Phenols and Ethers",25,H,reaction/equation,reaction/equation,Describe the mechanism of acid-catalysed dehydration of ethanol to ethene.
+U7-Q444,444,7,"Alcohols, Phenols and Ethers",25,M,explanation/application,explanation/application; definition/concept,Why is concentrated sulfuric acid used in the dehydration of alcohols?
+U7-Q445,445,7,"Alcohols, Phenols and Ethers",25,H,explanation/application,explanation/application; definition/concept,Explain why tertiary alcohols generally dehydrate more readily than primary alcohols.
+U7-Q446,446,7,"Alcohols, Phenols and Ethers",25,M,reaction/equation,reaction/equation,What is the product when ethanol is heated with excess concentrated sulfuric acid at about 413 K?
+U7-Q447,447,7,"Alcohols, Phenols and Ethers",25,H,reaction/equation,reaction/equation; comparison/classification,Compare the products formed by heating ethanol with concentrated sulfuric acid at about 413 K and 443 K.
+U7-Q448,448,7,"Alcohols, Phenols and Ethers",25,M,definition/concept,definition/concept,Define phenol and write its formula.
+U7-Q449,449,7,"Alcohols, Phenols and Ethers",25,M,explanation/application,explanation/application; definition/concept,Why is phenol more acidic than ethanol?
+U7-Q450,450,7,"Alcohols, Phenols and Ethers",26,H,comparison/classification,comparison/classification; explanation/application,Explain the greater stability of the phenoxide ion compared with the ethoxide ion.
+U7-Q451,451,7,"Alcohols, Phenols and Ethers",26,M,explanation/application,explanation/application; definition/concept,How does an electron-withdrawing group affect the acidity of phenol?
+U7-Q452,452,7,"Alcohols, Phenols and Ethers",26,H,comparison/classification,comparison/classification,"Compare the acidity of phenol, p-nitrophenol and p-cresol with justification."
+U7-Q453,453,7,"Alcohols, Phenols and Ethers",26,M,reaction/equation,reaction/equation,Describe the preparation of phenol from chlorobenzene.
+U7-Q454,454,7,"Alcohols, Phenols and Ethers",26,M,definition/concept,definition/concept,What happens when phenol reacts with bromine water?
+U7-Q455,455,7,"Alcohols, Phenols and Ethers",26,H,explanation/application,explanation/application; definition/concept,Explain why phenol undergoes electrophilic substitution more readily than benzene.
+U7-Q456,456,7,"Alcohols, Phenols and Ethers",26,M,reaction/equation,reaction/equation,What is the Kolbe–Schmitt reaction?
+U7-Q457,457,7,"Alcohols, Phenols and Ethers",26,M,reaction/equation,reaction/equation,What is the Reimer–Tiemann reaction?
+U7-Q458,458,7,"Alcohols, Phenols and Ethers",26,H,reaction/equation,reaction/equation; explanation/application,Write the main product of the Reimer–Tiemann reaction of phenol and explain the role of the reagent.
+U7-Q459,459,7,"Alcohols, Phenols and Ethers",26,M,definition/concept,definition/concept,What happens when phenol reacts with dilute nitric acid?
+U7-Q460,460,7,"Alcohols, Phenols and Ethers",26,H,reaction/equation,reaction/equation; comparison/classification,Compare the products of nitration of phenol under dilute and concentrated nitric acid conditions.
+U7-Q461,461,7,"Alcohols, Phenols and Ethers",26,M,comparison/classification,comparison/classification; explanation/application,How can phenol be distinguished from ethanol using a simple chemical test?
+U7-Q462,462,7,"Alcohols, Phenols and Ethers",26,M,definition/concept,definition/concept,Define ethers and give the general structure of an ether.
+U7-Q463,463,7,"Alcohols, Phenols and Ethers",26,M,nomenclature/formula,nomenclature/formula,Write the IUPAC name of CH₃OCH₂CH₃.
+U7-Q464,464,7,"Alcohols, Phenols and Ethers",26,M,reaction/equation,reaction/equation,Describe the Williamson ether synthesis.
+U7-Q465,465,7,"Alcohols, Phenols and Ethers",26,H,reaction/equation,reaction/equation; explanation/application,Why is a primary alkyl halide generally preferred in Williamson ether synthesis?
+U7-Q466,466,7,"Alcohols, Phenols and Ethers",26,H,reaction/equation,reaction/equation; explanation/application,Predict the major product when sodium ethoxide reacts with 2- bromopropane and explain the competing reaction.
+U7-Q467,467,7,"Alcohols, Phenols and Ethers",26,M,definition/concept,definition/concept,What happens when an ether is heated with excess HI?
+U7-Q468,468,7,"Alcohols, Phenols and Ethers",26,H,reaction/equation,reaction/equation; explanation/application,Explain the cleavage of an unsymmetrical ether by HI and how the products depend on the alkyl groups.
+U7-Q469,469,7,"Alcohols, Phenols and Ethers",26,M,explanation/application,explanation/application; definition/concept,Why do ethers have lower boiling points than isomeric alcohols?
+U7-Q470,470,7,"Alcohols, Phenols and Ethers",26,M,definition/concept,definition/concept,State one use of diethyl ether.
+U7-Q471,471,7,"Alcohols, Phenols and Ethers",26,H,explanation/application,explanation/application; definition/concept,Explain why ethers can form explosive peroxides on prolonged exposure to air and light.
+U7-Q472,472,7,"Alcohols, Phenols and Ethers",26,M,definition/concept,definition/concept,What is the effect of methanol on human health?
+U7-Q473,473,7,"Alcohols, Phenols and Ethers",26,M,reaction/equation,reaction/equation; explanation/application,Why is ethanol used as a solvent in many products?
+U7-Q474,474,7,"Alcohols, Phenols and Ethers",27,H,reaction/equation,reaction/equation; comparison/classification,"Compare methanol and ethanol in terms of preparation, uses and toxicity."
+U7-Q475,475,7,"Alcohols, Phenols and Ethers",27,M,definition/concept,definition/concept,What is esterification of an alcohol?
+U7-Q476,476,7,"Alcohols, Phenols and Ethers",27,H,reaction/equation,reaction/equation,Write the reaction of ethanol with ethanoic acid and state the role of the acid catalyst.
+U7-Q477,477,7,"Alcohols, Phenols and Ethers",27,M,explanation/application,explanation/application; definition/concept,How does the solubility of alcohols in water change with increasing carbon-chain length?
+U7-Q478,478,7,"Alcohols, Phenols and Ethers",27,H,explanation/application,explanation/application; definition/concept,Explain why phenol is only moderately soluble in water despite its ability to form hydrogen bonds.
+U7-Q479,479,7,"Alcohols, Phenols and Ethers",27,M,comparison/classification,comparison/classification; explanation/application,"How can primary, secondary and tertiary alcohols be distinguished by oxidation behaviour?"
+U7-Q480,480,7,"Alcohols, Phenols and Ethers",27,M,nomenclature/formula,nomenclature/formula,Write the IUPAC name of (CH₃)₃COH.
+U7-Q481,481,7,"Alcohols, Phenols and Ethers",27,H,reaction/equation,reaction/equation,Predict the major product when 2-methylpropan-2-ol is dehydrated under acidic conditions.
+U7-Q482,482,7,"Alcohols, Phenols and Ethers",27,M,explanation/application,explanation/application; definition/concept,Why does phenol react with sodium hydroxide but ethanol does not react appreciably?
+U7-Q483,483,7,"Alcohols, Phenols and Ethers",27,H,explanation/application,explanation/application; definition/concept,Explain how resonance and inductive effects together influence the acidity of substituted phenols.
+U7-Q484,484,7,"Alcohols, Phenols and Ethers",27,M,reaction/equation,reaction/equation,What is the product when phenol reacts with bromine in a non-polar solvent under controlled conditions?
+U7-Q485,485,7,"Alcohols, Phenols and Ethers",27,H,comparison/classification,comparison/classification; explanation/application,Explain the difference between bromination of phenol in bromine water and in a non-polar solvent.
+U7-Q486,486,7,"Alcohols, Phenols and Ethers",27,M,reaction/equation,reaction/equation,How is anisole prepared by Williamson ether synthesis?
+U7-Q487,487,7,"Alcohols, Phenols and Ethers",27,H,reaction/equation,reaction/equation; explanation/application,Predict the products of anisole cleavage with excess HI and explain which bond is cleaved first.
+U7-Q488,488,7,"Alcohols, Phenols and Ethers",27,M,explanation/application,explanation/application; definition/concept,Why is the C–O bond in phenol shorter than a typical C–O single bond in an alcohol?
+U7-Q489,489,7,"Alcohols, Phenols and Ethers",27,H,explanation/application,explanation/application; definition/concept,Explain why alcohol dehydration generally follows the order tertiary > secondary > primary under acidic conditions.
+U7-Q490,490,7,"Alcohols, Phenols and Ethers",27,M,reaction/equation,reaction/equation,What is the product of oxidation of propan-2-ol?
+U7-Q491,491,7,"Alcohols, Phenols and Ethers",27,H,reaction/equation,reaction/equation; comparison/classification; explanation/application,How can 1-propanol be distinguished from 2-propanol by oxidation products?
+U7-Q492,492,7,"Alcohols, Phenols and Ethers",27,M,explanation/application,explanation/application; definition/concept,What is the role of acid in esterification?
+U7-Q493,493,7,"Alcohols, Phenols and Ethers",28,H,reaction/equation,reaction/equation,Give a reaction sequence to convert phenol into salicylic acid.
+U7-Q494,494,7,"Alcohols, Phenols and Ethers",28,M,reaction/equation,reaction/equation,What is the product of phenol with neutral ferric chloride solution?
+U7-Q495,495,7,"Alcohols, Phenols and Ethers",28,H,explanation/application,explanation/application; definition/concept,Explain the limitations of using the ferric chloride test as the only evidence for phenol.
+U7-Q496,496,7,"Alcohols, Phenols and Ethers",28,M,explanation/application,explanation/application; definition/concept,Why are lower alcohols miscible with water?
+U7-Q497,497,7,"Alcohols, Phenols and Ethers",28,H,explanation/application,explanation/application; definition/concept,Explain the effect of branching on the boiling points of isomeric alcohols.
+U7-Q498,498,7,"Alcohols, Phenols and Ethers",28,M,reaction/equation,reaction/equation,What is the major product when diethyl ether reacts with excess HI on heating?
+U7-Q499,499,7,"Alcohols, Phenols and Ethers",28,H,explanation/application,explanation/application; definition/concept,Explain why ethers are relatively unreactive toward bases but can be cleaved by strong hydrogen halides.
+U7-Q500,500,7,"Alcohols, Phenols and Ethers",28,H,reaction/equation,reaction/equation,Predict the products when phenol reacts with aqueous NaOH and then with CO₂ under pressure followed by acidification. Name the reaction.

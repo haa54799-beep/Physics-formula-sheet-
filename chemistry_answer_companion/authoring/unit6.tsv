@@ -1,0 +1,70 @@
+359|A haloalkane has halogen bonded to an aliphatic sp³ carbon (e.g. CH₃CH₂Cl). A haloarene has halogen directly bonded to an aromatic-ring carbon (e.g. chlorobenzene).
+360|2-Bromobutane.
+361|Halogens are more electronegative than carbon, so the C–X bond is polar: Cδ⁺–Xδ⁻.
+362|Bond strength decreases C–F>C–Cl>C–Br>C–I as bond length increases. For substitution, easier C–X cleavage generally gives RI>RBr>RCl≫RF, although mechanism and substrate also matter.
+363|Nucleophilic substitution replaces a leaving group (often halide) on carbon with a nucleophile: R–X+Nu⁻→R–Nu+X⁻.
+364|SN1 is two-step, through a carbocation; rate=k[RX], often favoured by tertiary substrate/polar protic solvent and gives racemisation tendency. SN2 is concerted backside attack; rate=k[RX][Nu⁻], favoured by less hindered substrate/strong nucleophile and gives inversion.
+365|Tertiary substrates form relatively stable carbocations and are sterically hindered to backside attack, favouring SN1. Primary substrates form unstable carbocations but allow backside approach, favouring SN2; solvent/nucleophile can alter the outcome.
+366|Racemisation is loss of optical purity as an initially optically active substrate forms a mixture of enantiomers, often through attack on both faces of a planar carbocation.
+367|SN2 proceeds by backside attack as the C–Nu bond forms and C–X breaks, causing inversion of configuration at the reacting stereogenic centre (Walden inversion).
+368|Optical activity is the ability of a chiral substance to rotate the plane of plane-polarised light; enantiomers rotate it equally in opposite directions.
+369|SN1 forms a roughly planar carbocation, which can be attacked from either face, producing both configurations. Ion-pair effects often make racemisation incomplete rather than exactly 50:50.
+370|SN1 reactivity generally 3°>2°>1° because increasing alkyl substitution stabilises the rate-determining carbocation.
+371|Major product is butan-2-ol, CH₃CH(OH)CH₂CH₃, by nucleophilic substitution with aqueous OH⁻ replacing Br⁻; secondary-substrate elimination can be a minor competing pathway depending on conditions.
+372|Dehydrohalogenation is elimination of HX from adjacent (α and β) carbons of a haloalkane to form an alkene, commonly with alcoholic base and heat.
+373|Aqueous KOH favours nucleophilic substitution to an alcohol. Alcoholic KOH with heat favours β-elimination to an alkene; substrate and conditions can allow competing pathways.
+374|Aryl C–X has partial double-bond character from resonance, the bonded carbon is sp², and backside attack/phenyl-cation formation is difficult; haloarenes therefore resist ordinary SN reactions.
+375|A chlorine lone pair overlaps with the benzene π system. Resonance contributors place π bonding between C and Cl, giving the aryl C–Cl bond partial double-bond character and shortening/strengthening it.
+376|Cl donates a lone pair by resonance, increasing electron density mainly at ortho and para positions and stabilising the corresponding arenium intermediates; these positions are therefore directed despite deactivation.
+377|The strong −I effect withdraws electron density and deactivates the ring. Lone-pair resonance donation stabilises ortho/para substitution intermediates, so halogens remain ortho/para directors.
+378|Nitration gives ortho- and para-nitrochlorobenzene, with the para isomer generally major because it is less sterically crowded.
+379|Wurtz reaction couples two alkyl halides with sodium in dry ether: 2R–X+2Na→R–R+2NaX.
+380|Fittig reaction couples aryl halides with sodium in dry ether: 2Ar–X+2Na→Ar–Ar+2NaX.
+381|Wurtz–Fittig reaction couples an aryl and an alkyl halide with sodium in dry ether: Ar–X+R–X+2Na→Ar–R+2NaX.
+382|Principal Wurtz–Fittig product is toluene: C₆H₅Br+CH₃Br+2Na→C₆H₅CH₃+2NaBr. Homocoupling side-products (biphenyl and ethane) may also form.
+383|Heat the haloalkane with aqueous NaOH or KOH to replace X by OH: R–X+OH⁻→R–OH+X⁻.
+384|Convert ethanol to bromoethane with HBr (often generated from NaBr/KBr and concentrated H₂SO₄) or use PBr₃: CH₃CH₂OH→CH₃CH₂Br.
+385|An allylic halide has X on an sp³ carbon adjacent to C=C; a vinylic halide has X directly attached to an alkene (sp²) carbon.
+386|Vinyl C–Cl has partial double-bond character through conjugation, is shorter/stronger at an sp² carbon and resists backside attack; ethyl chloride has an ordinary sp³ C–Cl bond.
+387|Dichloromethane is used as an industrial solvent and in paint strippers. Emissions contribute to stratospheric ozone depletion despite its relatively short atmospheric lifetime (Australian Industrial Chemicals Introduction Scheme evaluation, 2021).
+388|Chloroform has been used as a solvent and historically as an anaesthetic. It can damage liver/kidneys and depress the central nervous system; it is unsafe for unsupervised exposure.
+389|CCl₄ is toxic and persistent, and chlorine radicals released in the stratosphere catalytically deplete ozone; its production/use has been heavily restricted.
+390|Iodoform is triiodomethane, CHI₃, a yellow crystalline solid historically used as an antiseptic/dressing because it releases iodine-containing species.
+391|Freons are chlorofluorocarbon (CFC) refrigerants/propellants. Stable CFCs reach the stratosphere and release chlorine radicals that deplete ozone; many were phased out under the Montreal Protocol.
+392|DDT is persistent, fat-soluble and bioaccumulates/biomagnifies, harming wildlife (notably birds) and potentially exposing people through food chains.
+393|DDT is notably persistent and bioaccumulative. Many newer pesticides are designed to degrade faster, but persistence and bioaccumulation vary by compound; some modern pesticides remain hazardous, so a blanket claim that all are safer is not justified.
+394|For the same alkyl group, molar mass and polarizability generally rise F→Cl→Br→I, strengthening dispersion forces; boiling points usually rise in that order (with structural exceptions).
+395|Branching makes isomers more compact, reducing intermolecular contact surface and London dispersion forces; less energy is required to separate molecules, so boiling point generally falls.
+396|Haloalkanes cannot hydrogen-bond effectively with water, and their hydrophobic alkyl group makes hydration energetically unfavourable; only slight amounts dissolve.
+397|Many organic solvents have compatible polarizability and dispersion interactions with haloalkanes, so solute–solvent attractions can offset disruption of solvent–solvent interactions despite C–X bond polarity.
+398|A Grignard reagent is an organomagnesium halide, RMgX, containing a strongly polar C–Mg bond and behaving as a powerful nucleophilic/basic carbon reagent.
+399|Water protonates the carbon end and destroys the reagent: RMgX+H₂O→RH+Mg(OH)X. Dry ether coordinates/stabilises Mg and must also be anhydrous.
+400|CH₃CH₂Br+Mg→CH₃CH₂MgBr in dry ether.
+401|RMgX+CO₂→RCO₂MgX; acidic hydrolysis gives RCOOH. The carboxylic acid has one more carbon than R.
+402|Use sodium fusion (Lassaigne’s test) to convert halogen to NaX in the extract; acidify with dilute HNO₃, then add AgNO₃. AgCl is white, AgBr pale yellow and AgI yellow; confirmatory solubility tests can distinguish them.
+403|Covalently bound halogen may not release X⁻ simply on contact with aqueous AgNO₃, especially for aryl/vinyl halides. The test depends on hydrolysis/ionisation and solubility, so sample preparation and suitable reaction conditions are needed.
+404|A nucleophile donates an electron pair to an electrophilic atom (often carbon) to form a bond. A base accepts a proton; many species can do both, but the attacked site differs.
+405|Polar protic solvents stabilise ions/carbocations and solvate anionic nucleophiles, often favouring SN1 and slowing SN2. Polar aprotic solvents solvate cations but leave nucleophiles reactive, often accelerating SN2.
+406|A leaving group departs from carbon with the bonding electron pair, enabling substitution. Stable, weakly basic anions generally leave more readily.
+407|Typical ability: I⁻>Br⁻>Cl⁻≫F⁻. Larger, more polarizable anions are more stable and weaker bases, and the C–I bond is weakest; the exact rate still depends on substrate and mechanism.
+408|2-Chlorobutane.
+409|Propene is the major product: CH₃CHBrCH₃+KOH(alc)→CH₃CH=CH₂+KBr+H₂O. Alcoholic base and heat favour concerted E2 β-elimination.
+410|Tert-butyl chloride forms a relatively stable tertiary carbocation; a polar protic solvent stabilises the developing ions, accelerating the SN1 ionisation step.
+411|SN1 has two transition states separated by a carbocation intermediate; the first, ionisation barrier is often rate-determining. SN2 has one concerted transition state and one barrier, with simultaneous C–Nu formation and C–X cleavage.
+412|Inversion of configuration is reversal of the spatial arrangement at a stereogenic carbon, as in backside SN2 attack (Walden inversion).
+413|Likely SN2: the strong nucleophile attacks from the backside in polar aprotic solvent, producing inversion at the reacting chiral centre, provided steric hindrance does not prevent SN2.
+414|Chlorobenzene’s aryl C–Cl bond has resonance partial double-bond character and is attached to an sp² carbon; ordinary backside substitution is difficult, so hydrolysis requires much harsher conditions than for alkyl chlorides.
+415|Ortho/para electron-withdrawing groups stabilise the negatively charged Meisenheimer addition intermediate by resonance delocalisation, lowering the barrier for nucleophilic aromatic substitution.
+416|Bromoethane hydrolyses to ethanol: CH₃CH₂Br+OH⁻→CH₃CH₂OH+Br⁻.
+417|Add HBr to propene in the presence of peroxide (ROOR), usually with heat/light: radical anti-Markovnikov addition gives CH₃CH₂CH₂Br (1-bromopropane).
+418|Dry ether solvates/stabilises the sodium and organometallic intermediates and provides an inert medium; moisture would consume sodium or protonate reactive species.
+419|Each haloalkane can couple with either partner, producing both cross-coupled and homocoupled products. The mixture is difficult to avoid unless the reactants are chosen carefully.
+420|UV light breaks C–Cl bonds in stratospheric CFCs, releasing chlorine radicals. These radicals catalytically convert ozone to oxygen and are regenerated.
+421|Cl·+O₃→ClO·+O₂; then ClO·+O·→Cl·+O₂. Chlorine radical is regenerated, so the net reaction is O₃+O→2O₂ and one radical can destroy many ozone molecules.
+422|A geminal dihalide has both halogen atoms on the same carbon; a vicinal dihalide has them on adjacent carbons.
+423|Allyl chloride is highly reactive because its transition state/carbocation is resonance-stabilised; ethyl chloride has ordinary primary-halide reactivity; vinyl chloride is much less reactive because its sp² C–Cl bond has partial double-bond character. Typical order: allyl chloride>ethyl chloride≫vinyl chloride.
+424|Halogens are much heavier and more polarizable than hydrogen, so replacing H with one or more halogens raises molar mass and often density relative to the corresponding hydrocarbon.
+425|A new stereogenic centre forms if substitution gives a carbon attached to four different groups. Assign R/S by CIP priorities (atomic number, then successive ties); determine whether the mechanism gives inversion, racemisation or another stereochemical outcome separately.
+426|Propanenitrile (ethyl cyanide), CH₃CH₂C≡N; KCN attacks through carbon, adding one carbon to the chain.
+427|KCN is ionic and supplies free CN⁻, which attacks through carbon to give propanenitrile, CH₃CH₂CN. Covalent AgCN favours nitrogen-end attack, giving ethyl isocyanide, CH₃CH₂NC.
+428|SN2 is a single concerted collision of haloalkane and nucleophile, so its rate law is rate=k[RX][Nu⁻]; increasing either reactant concentration increases the frequency of productive encounters.
